@@ -1,12 +1,9 @@
 # hands-on-mascem-restrade
+# README
 ##
 ## TradeRES Iberian Stakeholders’ Workshop
 ## Electricity markets with high shares of renewables
-##
 ### Hands-on MASCEM-RESTrade simulation of market bundles
-##
-# README
-##
 ##
 <br />
 ##Requested Preparations
