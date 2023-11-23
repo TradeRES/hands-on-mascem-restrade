@@ -1,8 +1,6 @@
-# Hands-on MASCEM-RESTrade simulation of market bundles<br/>README
+# Hands-on MASCEM-RESTrade simulation of market bundles
 
-## TradeRES Iberian Stakeholders’ Workshop:<br/>Electricity markets with high shares of renewables
-
-## Requested Preparations
+## TradeRES Iberian Stakeholders’ Workshop:<br/>Electricity markets with high shares of renewables<br/><br/>Requested Preparations
 To avoid waiting times for downloads and installation processes during the workshop, we ask
 all participants to check if their system meets these requirements. Both, MASCEM and
 RESTrade require the [Spine-Toolbox] for the version shown in this tutorial. The [Spine-Toolbox]
