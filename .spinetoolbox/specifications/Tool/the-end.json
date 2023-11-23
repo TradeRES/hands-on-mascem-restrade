@@ -1,0 +1,13 @@
+{
+    "name": "the-end",
+    "tooltype": "python",
+    "includes": [
+        "12.the-end.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

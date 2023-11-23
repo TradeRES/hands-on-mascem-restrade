@@ -1,0 +1,54 @@
+{
+  "persistence": {
+    "input_base_dir": "in",
+    "output_base_dir": "out",
+    "market_designs": [
+      {
+        "session": "day-ahead",
+        "period": "PT1H",
+        "n_periods": 24
+      },
+      {
+        "session": "6hr-ahead",
+        "period": "PT1H",
+        "n_periods": 6
+      }
+    ]
+  },
+  "config": {
+    "ems": {
+      "base_url": "https://em.gecad.isep.ipp.pt/api/v1/symmetricalpool/",
+      "request_headers": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+      },
+      "force_exec": false
+    },
+    "pfs": {
+      "run": true,
+      "dlr": {
+        "PT->ES": {
+          "spring": 5748,
+          "summer": 3334,
+          "autumn": 5748,
+          "winter": 9836
+        },
+        "ES->PT": {
+          "spring": 4790,
+          "summer": 2778,
+          "autumn": 4790,
+          "winter": 8197
+        }
+      }
+    },
+    "scenarios": [
+      "day-ahead-base",
+      "day-ahead-forecasts",
+      "6hr-ahead-forecasts"
+    ],
+    "market_design": 1,
+    "scenario": 2
+  },
+  "controller": {
+    "starting_exec": true
+  }
+}

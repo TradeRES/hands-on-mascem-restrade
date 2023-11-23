@@ -1,0 +1,13 @@
+{
+    "name": "controller",
+    "tooltype": "python",
+    "includes": [
+        "2.controller.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

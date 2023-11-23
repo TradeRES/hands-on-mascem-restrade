@@ -1,0 +1,13 @@
+{
+    "name": "next-period-to-session",
+    "tooltype": "python",
+    "includes": [
+        "8.next-period-to-session.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

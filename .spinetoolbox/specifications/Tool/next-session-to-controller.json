@@ -1,0 +1,13 @@
+{
+    "name": "next-session-to-controller",
+    "tooltype": "python",
+    "includes": [
+        "11.next-session-to-controller.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

@@ -1,0 +1,412 @@
+{
+    "project": {
+        "version": 11,
+        "description": "",
+        "settings": {
+            "enable_execute_all": true
+        },
+        "specifications": {
+            "Tool": [
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/session.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/controller.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/period.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/power-flow-validation.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/next-period.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/next-session.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/the-end.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/reserves.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/config-reset.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/next-period-to-session.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/power-flow-validation-to-period.json"
+                },
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": ".spinetoolbox/specifications/Tool/next-session-to-controller.json"
+                }
+            ]
+        },
+        "connections": [
+            {
+                "name": "from controller to session",
+                "from": [
+                    "controller",
+                    "right"
+                ],
+                "to": [
+                    "session",
+                    "left"
+                ]
+            },
+            {
+                "name": "from session to period",
+                "from": [
+                    "session",
+                    "right"
+                ],
+                "to": [
+                    "period",
+                    "left"
+                ]
+            },
+            {
+                "name": "from period to power-flow-validation",
+                "from": [
+                    "period",
+                    "right"
+                ],
+                "to": [
+                    "power-flow-validation",
+                    "left"
+                ]
+            },
+            {
+                "name": "from power-flow-validation to next-period",
+                "from": [
+                    "power-flow-validation",
+                    "right"
+                ],
+                "to": [
+                    "next-period",
+                    "left"
+                ]
+            },
+            {
+                "name": "from next-session to the-end",
+                "from": [
+                    "next-session",
+                    "right"
+                ],
+                "to": [
+                    "the-end",
+                    "left"
+                ]
+            },
+            {
+                "name": "from next-period to reserves",
+                "from": [
+                    "next-period",
+                    "right"
+                ],
+                "to": [
+                    "reserves",
+                    "left"
+                ]
+            },
+            {
+                "name": "from reserves to next-session",
+                "from": [
+                    "reserves",
+                    "right"
+                ],
+                "to": [
+                    "next-session",
+                    "left"
+                ]
+            },
+            {
+                "name": "from exec-config to config-reset",
+                "from": [
+                    "exec-config",
+                    "right"
+                ],
+                "to": [
+                    "config-reset",
+                    "left"
+                ]
+            },
+            {
+                "name": "from config-reset to controller",
+                "from": [
+                    "config-reset",
+                    "right"
+                ],
+                "to": [
+                    "controller",
+                    "left"
+                ]
+            }
+        ],
+        "jumps": [
+            {
+                "name": "from power-flow-validation to period",
+                "from": [
+                    "power-flow-validation",
+                    "bottom"
+                ],
+                "to": [
+                    "period",
+                    "bottom"
+                ],
+                "condition": {
+                    "type": "tool-specification",
+                    "specification": "power-flow-validation-to-period"
+                },
+                "cmd_line_args": []
+            },
+            {
+                "name": "from next-period to session",
+                "from": [
+                    "next-period",
+                    "bottom"
+                ],
+                "to": [
+                    "session",
+                    "bottom"
+                ],
+                "condition": {
+                    "type": "tool-specification",
+                    "specification": "next-period-to-session"
+                },
+                "cmd_line_args": []
+            },
+            {
+                "name": "from next-session to controller",
+                "from": [
+                    "next-session",
+                    "bottom"
+                ],
+                "to": [
+                    "controller",
+                    "bottom"
+                ],
+                "condition": {
+                    "type": "tool-specification",
+                    "specification": "next-session-to-controller"
+                },
+                "cmd_line_args": []
+            }
+        ]
+    },
+    "items": {
+        "exec-config": {
+            "type": "Data Connection",
+            "description": "",
+            "x": -671.7288880030998,
+            "y": -198.88497406196674,
+            "file_references": [
+                {
+                    "type": "path",
+                    "relative": true,
+                    "path": "res/exec-config.json"
+                }
+            ],
+            "db_references": []
+        },
+        "controller": {
+            "type": "Tool",
+            "description": "",
+            "x": -403.80808218075026,
+            "y": -196.8783397665881,
+            "specification": "controller",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "literal",
+                    "arg": "./res/exec-config.json"
+                }
+            ],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "power-flow-validation": {
+            "type": "Tool",
+            "description": "",
+            "x": 31.145995597092416,
+            "y": -288.06858944776917,
+            "specification": "power-flow-validation",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "literal",
+                    "arg": "./res/exec-config.json"
+                }
+            ],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "session": {
+            "type": "Tool",
+            "description": "",
+            "x": -262.4543088552272,
+            "y": -249.04440452094173,
+            "specification": "session",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "literal",
+                    "arg": "./res/exec-config.json"
+                }
+            ],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "period": {
+            "type": "Tool",
+            "description": "",
+            "x": -107.35120715227558,
+            "y": -288.76715141253186,
+            "specification": "period",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "literal",
+                    "arg": "./res/exec-config.json"
+                }
+            ],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "next-period": {
+            "type": "Tool",
+            "description": "",
+            "x": 169.54578749621487,
+            "y": -247.56826668863408,
+            "specification": "next-period",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "literal",
+                    "arg": "./res/exec-config.json"
+                }
+            ],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "next-session": {
+            "type": "Tool",
+            "description": "",
+            "x": 435.3216181756146,
+            "y": -198.6334835902699,
+            "specification": "next-session",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "literal",
+                    "arg": "./res/exec-config.json"
+                }
+            ],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "the-end": {
+            "type": "Tool",
+            "description": "",
+            "x": 574.9988904076987,
+            "y": -200.48750726892877,
+            "specification": "the-end",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "literal",
+                    "arg": "./res/exec-config.json"
+                }
+            ],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "reserves": {
+            "type": "Tool",
+            "description": "",
+            "x": 297.3801017646538,
+            "y": -250.71766248456225,
+            "specification": "reserves",
+            "execute_in_work": false,
+            "cmd_line_args": [],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "config-reset": {
+            "type": "Tool",
+            "description": "",
+            "x": -538.7622962865962,
+            "y": -195.43591013810567,
+            "specification": "config-reset",
+            "execute_in_work": false,
+            "cmd_line_args": [
+                {
+                    "type": "resource",
+                    "arg": "<project>/res/exec-config.json"
+                }
+            ],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "next-period-to-session": {
+            "type": "Tool",
+            "description": "",
+            "x": -82.22574328473017,
+            "y": -70.94127014871356,
+            "specification": "next-period-to-session",
+            "execute_in_work": false,
+            "cmd_line_args": [],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "power-flow-validation-to-period": {
+            "type": "Tool",
+            "description": "",
+            "x": -259.0246112862259,
+            "y": -71.64880297792197,
+            "specification": "power-flow-validation-to-period",
+            "execute_in_work": false,
+            "cmd_line_args": [],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        },
+        "next-session-to-controller": {
+            "type": "Tool",
+            "description": "",
+            "x": 80.83256697758713,
+            "y": -71.9227385586546,
+            "specification": "next-session-to-controller",
+            "execute_in_work": false,
+            "cmd_line_args": [],
+            "kill_completed_processes": false,
+            "log_process_output": false
+        }
+    }
+}

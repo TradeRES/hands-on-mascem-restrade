@@ -1,0 +1,13 @@
+{
+    "name": "next-period",
+    "tooltype": "python",
+    "includes": [
+        "7.next-period.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

@@ -1,0 +1,13 @@
+{
+    "name": "session",
+    "tooltype": "python",
+    "includes": [
+        "3.session.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

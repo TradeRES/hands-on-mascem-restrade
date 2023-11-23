@@ -1,0 +1,13 @@
+{
+    "name": "period",
+    "tooltype": "python",
+    "includes": [
+        "4.period.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

@@ -1,0 +1,13 @@
+{
+    "name": "next-session",
+    "tooltype": "python",
+    "includes": [
+        "10.next-session.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

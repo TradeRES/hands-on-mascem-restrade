@@ -1,0 +1,13 @@
+{
+    "name": "power-flow-validation-to-period",
+    "tooltype": "python",
+    "includes": [
+        "6.power-flow-validation-to-period.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

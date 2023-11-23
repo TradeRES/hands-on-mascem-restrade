@@ -1,0 +1,1452 @@
+{
+  "marketPrice": 1.28,
+  "hasTrading": true,
+  "tradingResults": [
+    {
+      "offerUUID": "ACCGC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 168.6,
+      "tradedEnergy": 168.6
+    },
+    {
+      "offerUUID": "ADREC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 92.2,
+      "tradedEnergy": 92.2
+    },
+    {
+      "offerUUID": "ALDRC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 108.3,
+      "tradedEnergy": 108.3
+    },
+    {
+      "offerUUID": "ALFAC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 10.8,
+      "tradedEnergy": 10.8
+    },
+    {
+      "offerUUID": "AREPC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 30.5,
+      "tradedEnergy": 30.5
+    },
+    {
+      "offerUUID": "CEPSC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 2.4,
+      "tradedEnergy": 2.4
+    },
+    {
+      "offerUUID": "EDPC2",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 2879.8,
+      "tradedEnergy": 2879.8
+    },
+    {
+      "offerUUID": "EDPUC2",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 492.4,
+      "tradedEnergy": 492.4
+    },
+    {
+      "offerUUID": "EGLEC2",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 381.5,
+      "tradedEnergy": 381.5
+    },
+    {
+      "offerUUID": "ELERC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 117.8,
+      "tradedEnergy": 117.8
+    },
+    {
+      "offerUUID": "ENDPC2",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 1136.6,
+      "tradedEnergy": 1136.6
+    },
+    {
+      "offerUUID": "ENFOC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 33.5,
+      "tradedEnergy": 33.5
+    },
+    {
+      "offerUUID": "ENGNC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 3.1,
+      "tradedEnergy": 3.1
+    },
+    {
+      "offerUUID": "EZURC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 7.6,
+      "tradedEnergy": 7.6
+    },
+    {
+      "offerUUID": "FORTIC2",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 46.9,
+      "tradedEnergy": 46.9
+    },
+    {
+      "offerUUID": "GNCOC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 19.6,
+      "tradedEnergy": 19.6
+    },
+    {
+      "offerUUID": "GNSEC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 36.9,
+      "tradedEnergy": 36.9
+    },
+    {
+      "offerUUID": "IGESC2",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 727.9,
+      "tradedEnergy": 727.9
+    },
+    {
+      "offerUUID": "JAFPC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 7.2,
+      "tradedEnergy": 7.2
+    },
+    {
+      "offerUUID": "LOGIC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 3.6,
+      "tradedEnergy": 3.6
+    },
+    {
+      "offerUUID": "LUSIC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 6.9,
+      "tradedEnergy": 6.9
+    },
+    {
+      "offerUUID": "LUZBC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 49,
+      "tradedEnergy": 49
+    },
+    {
+      "offerUUID": "ONDEC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 2.3,
+      "tradedEnergy": 2.3
+    },
+    {
+      "offerUUID": "PORTC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 7.1,
+      "tradedEnergy": 7.1
+    },
+    {
+      "offerUUID": "PROPC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 5.7,
+      "tradedEnergy": 5.7
+    },
+    {
+      "offerUUID": "PTLIC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 16.2,
+      "tradedEnergy": 16.2
+    },
+    {
+      "offerUUID": "REPPC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 15.4,
+      "tradedEnergy": 15.4
+    },
+    {
+      "offerUUID": "USENC02",
+      "wasTraded": true,
+      "transactionType": "buy",
+      "price": 4000,
+      "energy": 6.9,
+      "tradedEnergy": 6.899999999998359
+    },
+    {
+      "offerUUID": "ADOUROB",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 1,
+      "energy": 248.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Bat_Cha_PT_30_1",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 1,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Bat_Cha_PT_30_2",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 1,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Bat_Cha_PT_30_3",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 1,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Bat_Cha_PT_30_4",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 1,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "DOUSUPB",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 1,
+      "energy": 791.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "GUADIAB",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 1,
+      "energy": 816,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TAMEGAB",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 1,
+      "energy": 780.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_10",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.54,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_6",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.54,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_11",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.53,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_8",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.53,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_5",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.51,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_3",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.49,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_4",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.46,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_9",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.46,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_1",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.45,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_2",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.44,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "Elect_PT_30_7",
+      "wasTraded": false,
+      "transactionType": "buy",
+      "price": 0.44,
+      "energy": 500,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ROR_PT_30",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 0,
+      "energy": 1091.5,
+      "tradedEnergy": 1091.5
+    },
+    {
+      "offerUUID": "W_Off_PT_30",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 0,
+      "energy": 1741.2,
+      "tradedEnergy": 1741.2
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1,
+      "energy": 12.3,
+      "tradedEnergy": 12.3
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.02,
+      "energy": 19.5,
+      "tradedEnergy": 19.5
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.02,
+      "energy": 45.4,
+      "tradedEnergy": 45.4
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.02,
+      "energy": 7.1,
+      "tradedEnergy": 7.1
+    },
+    {
+      "offerUUID": "Bat_Dis_PT_30_1",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.03,
+      "energy": 500,
+      "tradedEnergy": 500
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.05,
+      "energy": 16.2,
+      "tradedEnergy": 16.2
+    },
+    {
+      "offerUUID": "GUADIA",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.1,
+      "energy": 69.3,
+      "tradedEnergy": 69.3
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.12,
+      "energy": 194.5,
+      "tradedEnergy": 194.5
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.12,
+      "energy": 38.9,
+      "tradedEnergy": 38.9
+    },
+    {
+      "offerUUID": "Bat_Dis_PT_30_4",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.13,
+      "energy": 500,
+      "tradedEnergy": 500
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.14,
+      "energy": 296.6,
+      "tradedEnergy": 296.6
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.15,
+      "energy": 35.7,
+      "tradedEnergy": 35.7
+    },
+    {
+      "offerUUID": "GUADIA",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.15,
+      "energy": 64.8,
+      "tradedEnergy": 64.8
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.16,
+      "energy": 18.8,
+      "tradedEnergy": 18.8
+    },
+    {
+      "offerUUID": "Bat_Dis_PT_30_3",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.17,
+      "energy": 500,
+      "tradedEnergy": 500
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.18,
+      "energy": 33.7,
+      "tradedEnergy": 33.7
+    },
+    {
+      "offerUUID": "Bat_Dis_PT_30_2",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.19,
+      "energy": 500,
+      "tradedEnergy": 500
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.2,
+      "energy": 40.8,
+      "tradedEnergy": 40.8
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.2,
+      "energy": 66.6,
+      "tradedEnergy": 66.6
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.21,
+      "energy": 7.1,
+      "tradedEnergy": 7.1
+    },
+    {
+      "offerUUID": "TAMEGA",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.22,
+      "energy": 142.6,
+      "tradedEnergy": 142.6
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.24,
+      "energy": 296.3,
+      "tradedEnergy": 296.3
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.26,
+      "energy": 15.6,
+      "tradedEnergy": 15.6
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": true,
+      "transactionType": "sell",
+      "price": 1.28,
+      "energy": 453.9,
+      "tradedEnergy": 162.19999999999888
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.29,
+      "energy": 22,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.3,
+      "energy": 116.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.3,
+      "energy": 51.9,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.32,
+      "energy": 18.8,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.32,
+      "energy": 18.8,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.35,
+      "energy": 51.9,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.38,
+      "energy": 45.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TAMEGA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.38,
+      "energy": 73.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.41,
+      "energy": 35.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.44,
+      "energy": 35,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.44,
+      "energy": 61.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.46,
+      "energy": 45.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TAMEGA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.47,
+      "energy": 108.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.49,
+      "energy": 51.9,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TAMEGA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.5,
+      "energy": 142.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TAMEGA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.57,
+      "energy": 142.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.59,
+      "energy": 97.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.63,
+      "energy": 13,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.68,
+      "energy": 58.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.69,
+      "energy": 38.9,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "GUADIA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.71,
+      "energy": 64.8,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.72,
+      "energy": 21.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "GUADIA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.72,
+      "energy": 64.8,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.73,
+      "energy": 46.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ADOURO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.73,
+      "energy": 32.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.74,
+      "energy": 18.8,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "GUADIA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.74,
+      "energy": 64.8,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.76,
+      "energy": 59.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.77,
+      "energy": 45.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.78,
+      "energy": 13,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 1.78,
+      "energy": 71.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RTG03",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 46.41,
+      "energy": 201.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "PEGO3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 46.7,
+      "energy": 48.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RTG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 48.18,
+      "energy": 12.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "LARES2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 48.56,
+      "energy": 45.8,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RTG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 48.57,
+      "energy": 36.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 48.92,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 48.92,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "PEGO3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 49.11,
+      "energy": 153.9,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 49.14,
+      "energy": 1.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ENGNG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 49.23,
+      "energy": 1.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "PEGO3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 49.33,
+      "energy": 53.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ENGNG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 49.45,
+      "energy": 4.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 49.61,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ENGNG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 49.9,
+      "energy": 2.9,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "PEGO4",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 50.05,
+      "energy": 144.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "PEGO4",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 50.3,
+      "energy": 109.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "LARES2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 50.35,
+      "energy": 1.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "LARES2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 50.39,
+      "energy": 12.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 50.4,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ENGNG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 50.62,
+      "energy": 2.1,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RTG01",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 50.8,
+      "energy": 125.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 50.81,
+      "energy": 180.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RTG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 51.16,
+      "energy": 125.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 51.24,
+      "energy": 12.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 51.3,
+      "energy": 12.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 51.33,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 51.74,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ENGNG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 51.79,
+      "energy": 2.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "LARES2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 51.9,
+      "energy": 12.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 52.53,
+      "energy": 1.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 52.53,
+      "energy": 30.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RTG01",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 53.03,
+      "energy": 76.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RTG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 53.2,
+      "energy": 6.1,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 53.25,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "PEGO4",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 53.82,
+      "energy": 2.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RTG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 53.85,
+      "energy": 21.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "JAFPV02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 54.25,
+      "energy": 37.8,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 54.33,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 54.63,
+      "energy": 15.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "GCLDPV2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 54.81,
+      "energy": 70.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 54.95,
+      "energy": 12.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 55.01,
+      "energy": 1.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 55.23,
+      "energy": 30.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 55.27,
+      "energy": 149.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 56.04,
+      "energy": 149.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "LARES2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 56.07,
+      "energy": 36.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "LARES2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 56.24,
+      "energy": 131.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "LARES2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 56.41,
+      "energy": 12.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALFAG02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 56.6,
+      "energy": 5.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "SIMPV02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 60.69,
+      "energy": 47.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "EGLEV2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 60.83,
+      "energy": 162.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "GALPWG2",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 61.3,
+      "energy": 1014,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALIMA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 61.47,
+      "energy": 2.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 61.52,
+      "energy": 19.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 62.55,
+      "energy": 85.6,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 62.7,
+      "energy": 283.3,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALIMA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 63.72,
+      "energy": 217,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "MUONV02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 63.83,
+      "energy": 3.4,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "LUZBV02",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 64.83,
+      "energy": 159.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 66.12,
+      "energy": 63.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALIMA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 68.3,
+      "energy": 12.1,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALIMA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 69.99,
+      "energy": 36.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 69.99,
+      "energy": 14.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 74.33,
+      "energy": 14.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 74.45,
+      "energy": 47,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALIMA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 77.79,
+      "energy": 217,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALIMA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 78.13,
+      "energy": 144.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 86.43,
+      "energy": 63.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 88.2,
+      "energy": 63.2,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALIMA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 88.77,
+      "energy": 144.7,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 89.65,
+      "energy": 55.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 90.59,
+      "energy": 30.1,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 91.35,
+      "energy": 26.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "ALIMA",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 102.01,
+      "energy": 12.1,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 105.57,
+      "energy": 26.5,
+      "tradedEnergy": 0
+    },
+    {
+      "offerUUID": "TEMON",
+      "wasTraded": false,
+      "transactionType": "sell",
+      "price": 108.18,
+      "energy": 55.5,
+      "tradedEnergy": 0
+    }
+  ],
+  "totalDemand": 16552.8,
+  "totalSupply": 13676.00000000001,
+  "poolResult": "TRADING",
+  "totalTradedEnergy": 6416.699999999999,
+  "lastTradedSupplyOffer": "ADOURO",
+  "lastTradedDemandOffer": "USENC02"
+}

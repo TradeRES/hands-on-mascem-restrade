@@ -1,0 +1,13 @@
+{
+    "name": "power-flow-validation",
+    "tooltype": "python",
+    "includes": [
+        "5.power-flow-validation.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

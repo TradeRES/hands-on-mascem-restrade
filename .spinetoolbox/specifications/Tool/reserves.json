@@ -1,0 +1,13 @@
+{
+    "name": "reserves",
+    "tooltype": "python",
+    "includes": [
+        "9.reserves.py"
+    ],
+    "description": "",
+    "inputfiles": [],
+    "inputfiles_opt": [],
+    "outputfiles": [],
+    "cmdline_args": [],
+    "includes_main_path": "../../.."
+}

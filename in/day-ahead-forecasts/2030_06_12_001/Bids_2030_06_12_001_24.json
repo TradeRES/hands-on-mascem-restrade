@@ -1,0 +1,9750 @@
+{
+  "demandBids": [
+    {
+      "offerUUID": "ABOUC01",
+      "energy": 2.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ACAVADOB",
+      "energy": 1231.2,
+      "price": 56.27,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ACCGC02",
+      "energy": 162.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ACSOC01",
+      "energy": 4.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ACTIC01",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADEIC01",
+      "energy": 6.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADELC01",
+      "energy": 5.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADOUROB",
+      "energy": 200.8,
+      "price": 56.27,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADREC02",
+      "energy": 39.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADURC01",
+      "energy": 3.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADXRC03",
+      "energy": 48.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADXRM01",
+      "energy": 5.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADXRM03",
+      "energy": 13.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADXRM04",
+      "energy": 1.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADXRM06",
+      "energy": 2.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADXRM08",
+      "energy": 8.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADXRM09",
+      "energy": 4.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ADXRM10",
+      "energy": 2.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AENEC01",
+      "energy": 4.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AFIBGEC",
+      "energy": 513.6,
+      "price": 64.9,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AGENC01",
+      "energy": 6.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AGRIC01",
+      "energy": 20.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AGUB",
+      "energy": 953.2,
+      "price": 55.13,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AIREC01",
+      "energy": 4.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ALBCC01",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ALDRC01",
+      "energy": 305.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ALDRC02",
+      "energy": 75.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ALFAC02",
+      "energy": 2.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ALPXC01",
+      "energy": 3.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AMEC01",
+      "energy": 45.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ANENC01",
+      "energy": 4.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ANIMC01",
+      "energy": 6.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "APRIC01",
+      "energy": 2.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ARACC01",
+      "energy": 10.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AREPC02",
+      "energy": 18.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ATEEC01",
+      "energy": 2.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AUDAC01",
+      "energy": 216.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AVILC01",
+      "energy": 1.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "AXPOC02",
+      "energy": 39.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_1",
+      "energy": 513.6,
+      "price": 74.96,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_10",
+      "energy": 513.6,
+      "price": 73.12,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_11",
+      "energy": 513.6,
+      "price": 70.75,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_12",
+      "energy": 513.6,
+      "price": 69.6,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_13",
+      "energy": 513.6,
+      "price": 68.54,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_14",
+      "energy": 513.6,
+      "price": 70.54,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_15",
+      "energy": 513.6,
+      "price": 72.46,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_16",
+      "energy": 513.6,
+      "price": 67.69,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_17",
+      "energy": 513.6,
+      "price": 69.72,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_18",
+      "energy": 513.6,
+      "price": 75.25,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_19",
+      "energy": 513.6,
+      "price": 64.67,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_2",
+      "energy": 513.6,
+      "price": 73.43,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_20",
+      "energy": 513.6,
+      "price": 67.53,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_21",
+      "energy": 513.6,
+      "price": 63.98,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_22",
+      "energy": 513.6,
+      "price": 73.95,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_23",
+      "energy": 513.6,
+      "price": 68.4,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_24",
+      "energy": 513.6,
+      "price": 72.09,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_25",
+      "energy": 513.6,
+      "price": 75.96,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_26",
+      "energy": 513.6,
+      "price": 76.14,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_3",
+      "energy": 513.6,
+      "price": 69.04,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_4",
+      "energy": 513.6,
+      "price": 63.63,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_5",
+      "energy": 513.6,
+      "price": 66.5,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_6",
+      "energy": 513.6,
+      "price": 76.86,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_7",
+      "energy": 513.6,
+      "price": 64.71,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_8",
+      "energy": 513.6,
+      "price": 73.33,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BAT_char_9",
+      "energy": 513.6,
+      "price": 69.58,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BECOC01",
+      "energy": 14.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BEYOC01",
+      "energy": 1.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BEYRM01",
+      "energy": 1.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BIROC01",
+      "energy": 22.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BNPRC01",
+      "energy": 18.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BPC01",
+      "energy": 3.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "BPRM01",
+      "energy": 37.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Bat_Cha_PT_30_1",
+      "energy": 500.0,
+      "price": 71.63,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Bat_Cha_PT_30_2",
+      "energy": 500.0,
+      "price": 71.63,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Bat_Cha_PT_30_3",
+      "energy": 500.0,
+      "price": 71.63,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Bat_Cha_PT_30_4",
+      "energy": 500.0,
+      "price": 71.63,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CALEC01",
+      "energy": 3.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CARVC01",
+      "energy": 6.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CATGC01",
+      "energy": 4.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CATRC01",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CEDC01",
+      "energy": 2.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CEEEC01",
+      "energy": 15.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CEGC01",
+      "energy": 271.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CELRC01",
+      "energy": 175.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CEPEC01",
+      "energy": 2.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CEPSC02",
+      "energy": 2.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CHCC01",
+      "energy": 143.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CLIDC01",
+      "energy": 245.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CNEVC01",
+      "energy": 4.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CNTLC01",
+      "energy": 2.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "COALC01",
+      "energy": 6.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "COGEC01",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "COGRC01",
+      "energy": 8.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "COGRM02",
+      "energy": 14.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CONEC01",
+      "energy": 14.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CUPRC01",
+      "energy": 1.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "CYEC01",
+      "energy": 36.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DAIMC01",
+      "energy": 2.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DETIC01",
+      "energy": 249.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DETRC01",
+      "energy": 40.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DETRC02",
+      "energy": 19.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DETRC09",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DETRC10",
+      "energy": 3.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DETRC15",
+      "energy": 1.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DETRC16",
+      "energy": 17.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DIELC01",
+      "energy": 8.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DOLRC01",
+      "energy": 10.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DOUSUPB",
+      "energy": 639.6,
+      "price": 56.27,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DREAC01",
+      "energy": 26.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DRERC01",
+      "energy": 8.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DRERC02",
+      "energy": 2.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DRKFC01",
+      "energy": 3.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "DUEB",
+      "energy": 1827.0,
+      "price": 55.13,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EALBC01",
+      "energy": 1.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EAM0C01",
+      "energy": 4.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EBLCO01",
+      "energy": 183.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ECNDC01",
+      "energy": 10.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ECOFC01",
+      "energy": 1.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ECSCCA1",
+      "energy": 2.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EDPUC2",
+      "energy": 563.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EE21C01",
+      "energy": 1089.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EE21CEB",
+      "energy": 45.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EENC01",
+      "energy": 7.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EENEC01",
+      "energy": 2.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EENRC02",
+      "energy": 8.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EFGC01",
+      "energy": 84.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EGALC01",
+      "energy": 13.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EGCMC01",
+      "energy": 3322.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EGEDC01",
+      "energy": 825.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EGLEC01",
+      "energy": 346.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EGLEC2",
+      "energy": 192.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EGLRC01",
+      "energy": 3.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ELEIC01",
+      "energy": 197.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ELERC02",
+      "energy": 101.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ELV2C01",
+      "energy": 2.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENARC01",
+      "energy": 8.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENARM03",
+      "energy": 16.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENARM04",
+      "energy": 1.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENDE01",
+      "energy": 2685.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENDEB01",
+      "energy": 17.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENDEC04",
+      "energy": 33.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENDPC2",
+      "energy": 1173.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENEIC01",
+      "energy": 3.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENFOC02",
+      "energy": 22.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENGNC02",
+      "energy": 3.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENMEC01",
+      "energy": 5.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENPEC01",
+      "energy": 8.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ENUFC01",
+      "energy": 31.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EONUC01",
+      "energy": 1.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EPLUC01",
+      "energy": 20.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ESHAC01",
+      "energy": 2.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ETERC01",
+      "energy": 2.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ETSOC01",
+      "energy": 5.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EVIVC01",
+      "energy": 4.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EYPC01",
+      "energy": 36.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "EZURC02",
+      "energy": 2.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_1",
+      "energy": 500.0,
+      "price": 86.45,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_10",
+      "energy": 500.0,
+      "price": 86.89,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_11",
+      "energy": 500.0,
+      "price": 83.07,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_12",
+      "energy": 500.0,
+      "price": 83.65,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_13",
+      "energy": 500.0,
+      "price": 81.69,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_14",
+      "energy": 500.0,
+      "price": 84.58,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_15",
+      "energy": 500.0,
+      "price": 76.41,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_16",
+      "energy": 500.0,
+      "price": 77.27,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_17",
+      "energy": 500.0,
+      "price": 86.04,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_18",
+      "energy": 500.0,
+      "price": 85.33,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_19",
+      "energy": 500.0,
+      "price": 76.77,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_2",
+      "energy": 500.0,
+      "price": 86.47,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_20",
+      "energy": 500.0,
+      "price": 81.53,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_21",
+      "energy": 500.0,
+      "price": 78.88,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_22",
+      "energy": 500.0,
+      "price": 77.51,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_3",
+      "energy": 500.0,
+      "price": 75.19,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_4",
+      "energy": 500.0,
+      "price": 85.17,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_5",
+      "energy": 500.0,
+      "price": 76.64,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_6",
+      "energy": 500.0,
+      "price": 74.5,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_7",
+      "energy": 500.0,
+      "price": 74.97,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_8",
+      "energy": 500.0,
+      "price": 75.18,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_ES_30_9",
+      "energy": 500.0,
+      "price": 75.93,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_1",
+      "energy": 500.0,
+      "price": 77.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_10",
+      "energy": 500.0,
+      "price": 88.33,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_11",
+      "energy": 500.0,
+      "price": 74.97,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_2",
+      "energy": 500.0,
+      "price": 84.86,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_3",
+      "energy": 500.0,
+      "price": 79.14,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_4",
+      "energy": 500.0,
+      "price": 87.81,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_5",
+      "energy": 500.0,
+      "price": 77.2,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_6",
+      "energy": 500.0,
+      "price": 84.13,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_7",
+      "energy": 500.0,
+      "price": 88.64,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_8",
+      "energy": 500.0,
+      "price": 85.71,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "Elect_PT_30_9",
+      "energy": 500.0,
+      "price": 79.5,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "FENC01",
+      "energy": 247.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "FORTC01",
+      "energy": 581.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "FORTIC2",
+      "energy": 265.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "FORZC01",
+      "energy": 3.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "FOXC01",
+      "energy": 15.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "FTULC01",
+      "energy": 2.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GACC01",
+      "energy": 10.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GAIAC01",
+      "energy": 2.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GALAC01",
+      "energy": 4.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GALPC01",
+      "energy": 197.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GBENC01",
+      "energy": 11.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GEBLCC1",
+      "energy": 199.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GEDPGC2",
+      "energy": 2910.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GEGC01",
+      "energy": 16.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GEOAC01",
+      "energy": 23.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GESTC01",
+      "energy": 366.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GGNCOC1",
+      "energy": 2807.8,
+      "price": 4074.75,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GNCOC01",
+      "energy": 22.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GNCOC02",
+      "energy": 30.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GNSEC01",
+      "energy": 22.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GNSEC02",
+      "energy": 37.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GNSUC01",
+      "energy": 22.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GOCAC01",
+      "energy": 7.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GOIEC01",
+      "energy": 13.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GREPSC1",
+      "energy": 503.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GSETC01",
+      "energy": 13.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GSHEEC1",
+      "energy": 2.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GTGPLC1",
+      "energy": 730.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GUADIAB",
+      "energy": 494.8,
+      "price": 56.27,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "GVMEC01",
+      "energy": 28.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "HCGC01",
+      "energy": 1324.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "HELEC01",
+      "energy": 18.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "HISPC01",
+      "energy": 120.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "HSATC01",
+      "energy": 22.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "IBCUC01",
+      "energy": 943.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "IBGESX",
+      "energy": 1.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ICGAC01",
+      "energy": 48.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "IENOC01",
+      "energy": 2.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "IGESC01",
+      "energy": 6430.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "IGESC2",
+      "energy": 755.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "IGNRM02",
+      "energy": 2.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "INCRC01",
+      "energy": 2.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "INDEC01",
+      "energy": 11.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "INERC01",
+      "energy": 22.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "INERM02",
+      "energy": 4.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "INTEC01",
+      "energy": 23.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "IRISC01",
+      "energy": 1.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ISMRM06",
+      "energy": 1.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "JAAIC01",
+      "energy": 7.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "JAFPC02",
+      "energy": 3.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "JOIRC13",
+      "energy": 4.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "JOIRC15",
+      "energy": 1.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "JUANC01",
+      "energy": 1.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LABOC01",
+      "energy": 3.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LASAC01",
+      "energy": 10.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LAUEC01",
+      "energy": 18.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LAURM01",
+      "energy": 7.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LAURM03",
+      "energy": 3.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LDGIC01",
+      "energy": 5.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LEGAC01",
+      "energy": 2.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LERC01",
+      "energy": 3.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LIDEC01",
+      "energy": 3.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LITEC01",
+      "energy": 3.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LIUPC01",
+      "energy": 28.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LLARC01",
+      "energy": 8.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LMERC01",
+      "energy": 8.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LOGIC02",
+      "energy": 2.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LUBAC01",
+      "energy": 4.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LUCEC01",
+      "energy": 8.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LUM1C01",
+      "energy": 2.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LUMIC01",
+      "energy": 2.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LUSIC02",
+      "energy": 7.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "LUZBC02",
+      "energy": 16.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MELUC01",
+      "energy": 2.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MENEC01",
+      "energy": 1.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MIEU_C",
+      "energy": 4171.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MOLEC01",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MONDEGOB",
+      "energy": 387.2,
+      "price": 56.27,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MUEB",
+      "energy": 3177.4,
+      "price": 55.13,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MULTC01",
+      "energy": 2.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MUONC02",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "MYENC01",
+      "energy": 3.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "NABAC01",
+      "energy": 18.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "NAVAC01",
+      "energy": 1.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "NCEC01",
+      "energy": 1.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "NCERM06",
+      "energy": 2.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "NEOEC01",
+      "energy": 5.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "NEXUC01",
+      "energy": 382.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "NOBEC01",
+      "energy": 4.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "NSEC01",
+      "energy": 12.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "OESTC01",
+      "energy": 1.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ONDEC01",
+      "energy": 27.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ONDEC02",
+      "energy": 7.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ONDRM10",
+      "energy": 1.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ONDRM14",
+      "energy": 19.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "OPPIC01",
+      "energy": 5.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "PALOC01",
+      "energy": 4.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "PETRC01",
+      "energy": 5.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "PEURM01",
+      "energy": 7.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "POTEC01",
+      "energy": 5.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "PROPC02",
+      "energy": 3.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "PTLIC02",
+      "energy": 15.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "PVENT2X",
+      "energy": 1.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "RCONC01",
+      "energy": 2.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "RECRC11",
+      "energy": 2.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "RECRC19",
+      "energy": 14.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "RECRC21",
+      "energy": 2.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "RELAC01",
+      "energy": 4.1,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "REPEC01",
+      "energy": 202.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "REPPC02",
+      "energy": 32.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "REPRC01",
+      "energy": 39.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "RIVAC01",
+      "energy": 1.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "ROFEC01",
+      "energy": 13.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "RONDC01",
+      "energy": 1.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "RSPRC01",
+      "energy": 29.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SCVC01",
+      "energy": 31.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SEDAC01",
+      "energy": 1.9,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SESAC01",
+      "energy": 12.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SEVEC01",
+      "energy": 4.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SILB",
+      "energy": 206.5,
+      "price": 55.13,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SIMPC01",
+      "energy": 2.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SOCRC03",
+      "energy": 1.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SOCRC05",
+      "energy": 1.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SOLLC01",
+      "energy": 3.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SOMEC01",
+      "energy": 46.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SPBBC01",
+      "energy": 2.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SRVGC01",
+      "energy": 6.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "STINC01",
+      "energy": 3.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "STROC01",
+      "energy": 5.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SUNCC01",
+      "energy": 4.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "SWAPC01",
+      "energy": 16.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "TAMEGAB",
+      "energy": 946.5,
+      "price": 56.27,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "TANB",
+      "energy": 280.7,
+      "price": 55.13,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "TAUTC01",
+      "energy": 89.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "TERSC01",
+      "energy": 29.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "TEVIC01",
+      "energy": 1.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "TLCMC01",
+      "energy": 8.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "TLCRC01",
+      "energy": 54.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "UFBB",
+      "energy": 413.1,
+      "price": 55.13,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "UMEMC01",
+      "energy": 9.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "UNELC01",
+      "energy": 11.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "URAIC01",
+      "energy": 2.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "URBCC01",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "URBRC02",
+      "energy": 3.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "URBRC04",
+      "energy": 21.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "USENC02",
+      "energy": 6.6,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VGERC02",
+      "energy": 122.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VIEECA1",
+      "energy": 18.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VIRTC01",
+      "energy": 1.5,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VIRUC01",
+      "energy": 1.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VISLC01",
+      "energy": 5.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VIVOC01",
+      "energy": 8.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VTERM01",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VTERM05",
+      "energy": 3.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VTERM07",
+      "energy": 16.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VTERM09",
+      "energy": 3.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VTERM11",
+      "energy": 1.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VTERM17",
+      "energy": 9.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "VVESC01",
+      "energy": 1.8,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "WATIC01",
+      "energy": 32.2,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "WATRM01",
+      "energy": 1.4,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "WMARC01",
+      "energy": 155.3,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "WMARC02",
+      "energy": 4.0,
+      "price": 4000.0,
+      "instant": 1700518471
+    },
+    {
+      "offerUUID": "WWHOC01",
+      "energy": 1.7,
+      "price": 4000.0,
+      "instant": 1700518471
+    }
+  ],
+  "supplyBids": [
+    {
+      "offerUUID": "ABA1",
+      "energy": 1.2,
+      "price": 58.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ABA2",
+      "energy": 1.2,
+      "price": 89.83,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ABO2",
+      "energy": 37.2,
+      "price": 48.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ABO2",
+      "energy": 38.1,
+      "price": 50.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ABO2",
+      "energy": 196.1,
+      "price": 53.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ABO2",
+      "energy": 14.9,
+      "price": 53.99,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ABO2",
+      "energy": 38.1,
+      "price": 54.66,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ABO2",
+      "energy": 38.1,
+      "price": 54.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 29.9,
+      "price": 58.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 12.7,
+      "price": 60.21,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 18.5,
+      "price": 60.29,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 57.3,
+      "price": 68.41,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 63.7,
+      "price": 69.26,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 35.0,
+      "price": 70.14,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 57.3,
+      "price": 72.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 18.5,
+      "price": 80.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 19.1,
+      "price": 85.83,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 39.5,
+      "price": 86.26,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 12.7,
+      "price": 88.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 19.1,
+      "price": 94.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 152.8,
+      "price": 94.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 19.1,
+      "price": 94.92,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 191.0,
+      "price": 95.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACAVADO",
+      "energy": 38.2,
+      "price": 101.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACC1EBR",
+      "energy": 188.4,
+      "price": 82.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACC1EBR",
+      "energy": 396.1,
+      "price": 92.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACC2EBR",
+      "energy": 246.6,
+      "price": 64.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 16.9,
+      "price": 47.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 6.8,
+      "price": 48.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 38.1,
+      "price": 49.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 11.6,
+      "price": 50.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 3.1,
+      "price": 51.18,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 93.4,
+      "price": 51.41,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 16.9,
+      "price": 52.06,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 16.9,
+      "price": 52.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 6.8,
+      "price": 52.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 16.9,
+      "price": 52.94,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 16.9,
+      "price": 54.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE3",
+      "energy": 16.9,
+      "price": 54.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 17.2,
+      "price": 48.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 33.3,
+      "price": 50.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 17.2,
+      "price": 50.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 17.2,
+      "price": 51.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 17.2,
+      "price": 52.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 17.2,
+      "price": 52.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 6.9,
+      "price": 54.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 17.2,
+      "price": 54.41,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 17.2,
+      "price": 55.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 17.2,
+      "price": 55.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ACE4",
+      "energy": 78.8,
+      "price": 55.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 56.39,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 59.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 61.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 62.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 66.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 44.6,
+      "price": 71.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 44.6,
+      "price": 76.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 82.41,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 88.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 14.0,
+      "price": 93.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 227.9,
+      "price": 95.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 100.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADOURO",
+      "energy": 31.8,
+      "price": 103.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADXVD01",
+      "energy": 1.4,
+      "price": 56.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ADXVD04",
+      "energy": 17.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AFIBGEV",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AGEVD01",
+      "energy": 1.4,
+      "price": 57.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AGRRE01",
+      "energy": 1.8,
+      "price": 83.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AGU",
+      "energy": 48.0,
+      "price": 67.16,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AGU",
+      "energy": 94.5,
+      "price": 87.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AGU",
+      "energy": 94.5,
+      "price": 90.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AGU",
+      "energy": 94.5,
+      "price": 95.16,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AGU",
+      "energy": 94.5,
+      "price": 100.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALG3",
+      "energy": 152.1,
+      "price": 46.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALG3",
+      "energy": 311.1,
+      "price": 53.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALG3",
+      "energy": 98.0,
+      "price": 53.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALIMA",
+      "energy": 13.2,
+      "price": 58.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALIMA",
+      "energy": 13.2,
+      "price": 68.16,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALIMA",
+      "energy": 238.0,
+      "price": 68.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALIMA",
+      "energy": 66.1,
+      "price": 73.14,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALIMA",
+      "energy": 238.0,
+      "price": 75.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALIMA",
+      "energy": 2.6,
+      "price": 79.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALIMA",
+      "energy": 66.1,
+      "price": 89.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALIMA",
+      "energy": 224.7,
+      "price": 103.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALZ1",
+      "energy": 413.2,
+      "price": 5.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ALZ2",
+      "energy": 440.3,
+      "price": 4.95,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMBIETA",
+      "energy": 500.8,
+      "price": 56.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMEVD1",
+      "energy": 0.8,
+      "price": 90.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMEVD1",
+      "energy": 0.4,
+      "price": 93.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE003",
+      "energy": 2.4,
+      "price": 102.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE004",
+      "energy": 2.4,
+      "price": 97.48,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE008",
+      "energy": 1.7,
+      "price": 92.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE009",
+      "energy": 1.6,
+      "price": 95.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE010",
+      "energy": 2.7,
+      "price": 100.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE012",
+      "energy": 3.6,
+      "price": 105.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE030",
+      "energy": 2.7,
+      "price": 100.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE032",
+      "energy": 1.6,
+      "price": 96.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE036",
+      "energy": 3.9,
+      "price": 54.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "AMRE038",
+      "energy": 2.1,
+      "price": 61.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 16.9,
+      "price": 47.63,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 16.9,
+      "price": 50.39,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 105.5,
+      "price": 52.8,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 16.9,
+      "price": 53.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 16.9,
+      "price": 53.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 16.9,
+      "price": 55.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 16.9,
+      "price": 56.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 32.3,
+      "price": 56.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS1",
+      "energy": 28.3,
+      "price": 56.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 16.9,
+      "price": 46.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 16.9,
+      "price": 46.99,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 0.8,
+      "price": 49.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 110.0,
+      "price": 49.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 16.9,
+      "price": 51.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 16.9,
+      "price": 52.23,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 25.6,
+      "price": 52.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 16.9,
+      "price": 53.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 16.9,
+      "price": 54.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS2",
+      "energy": 18.7,
+      "price": 54.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 104.6,
+      "price": 47.56,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 53.4,
+      "price": 49.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 16.9,
+      "price": 50.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 36.8,
+      "price": 50.73,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 0.8,
+      "price": 53.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 16.9,
+      "price": 53.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 16.9,
+      "price": 55.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 16.9,
+      "price": 55.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARCOS3",
+      "energy": 16.9,
+      "price": 56.3,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARRU1R",
+      "energy": 101.4,
+      "price": 52.54,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARRU1R",
+      "energy": 170.5,
+      "price": 54.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARRU2R",
+      "energy": 101.4,
+      "price": 52.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ARRU2R",
+      "energy": 167.0,
+      "price": 56.01,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ASC1",
+      "energy": 798.1,
+      "price": 5.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ASC2",
+      "energy": 318.0,
+      "price": 4.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ASC2",
+      "energy": 141.6,
+      "price": 5.29,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ASIVD01",
+      "energy": 66.0,
+      "price": 74.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ASIVD02",
+      "energy": 360.2,
+      "price": 97.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ASIVD04",
+      "energy": 9.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 23.7,
+      "price": 47.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 20.3,
+      "price": 48.39,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 23.7,
+      "price": 49.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 23.7,
+      "price": 52.01,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 84.5,
+      "price": 54.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 23.8,
+      "price": 54.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 23.7,
+      "price": 54.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 236.6,
+      "price": 55.91,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAHIAB",
+      "energy": 71.0,
+      "price": 56.5,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_1",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_10",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_11",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_12",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_13",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_14",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_15",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_16",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_17",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_18",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_19",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_2",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_20",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_21",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_22",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_23",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_24",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_25",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_26",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_3",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_4",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_5",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_6",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_7",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_8",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BAT_dis_9",
+      "energy": 513.6,
+      "price": 77.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BECVD01",
+      "energy": 2.4,
+      "price": 80.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BECVD02",
+      "energy": 1.2,
+      "price": 68.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES3",
+      "energy": 55.4,
+      "price": 46.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES3",
+      "energy": 106.2,
+      "price": 46.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES3",
+      "energy": 117.0,
+      "price": 53.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 138.6,
+      "price": 46.83,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 15.6,
+      "price": 48.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 15.6,
+      "price": 49.53,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 7.5,
+      "price": 49.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 15.6,
+      "price": 50.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 15.6,
+      "price": 51.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 15.6,
+      "price": 51.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 15.6,
+      "price": 53.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 15.6,
+      "price": 54.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES4",
+      "energy": 15.6,
+      "price": 56.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES5",
+      "energy": 101.4,
+      "price": 51.95,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES5",
+      "energy": 60.9,
+      "price": 53.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES5",
+      "energy": 357.7,
+      "price": 53.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BES5",
+      "energy": 60.9,
+      "price": 56.39,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BPRE03",
+      "energy": 1.5,
+      "price": 96.33,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BPRE04",
+      "energy": 1.5,
+      "price": 101.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BRENA",
+      "energy": 5.2,
+      "price": 62.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BRR1R1",
+      "energy": 23.0,
+      "price": 46.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BRR1R1",
+      "energy": 22.3,
+      "price": 47.14,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BRR1R1",
+      "energy": 47.3,
+      "price": 48.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BRR1R1",
+      "energy": 22.3,
+      "price": 50.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "BRR1R1",
+      "energy": 121.7,
+      "price": 51.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Bat_Dis_PT_30_1",
+      "energy": 500.0,
+      "price": 78.93,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Bat_Dis_PT_30_2",
+      "energy": 500.0,
+      "price": 82.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Bat_Dis_PT_30_3",
+      "energy": 500.0,
+      "price": 84.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Bat_Dis_PT_30_4",
+      "energy": 500.0,
+      "price": 76.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Bio_ES_30_1",
+      "energy": 146.7,
+      "price": 105.54,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Bio_ES_30_2",
+      "energy": 146.7,
+      "price": 122.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Bio_ES_30_3",
+      "energy": 146.7,
+      "price": 102.29,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 47.16,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 47.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 25.5,
+      "price": 47.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 48.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 50.5,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 52.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 53.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 53.83,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 53.94,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 123.7,
+      "price": 54.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 56.26,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI10",
+      "energy": 11.6,
+      "price": 56.5,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI20",
+      "energy": 19.6,
+      "price": 47.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI20",
+      "energy": 19.6,
+      "price": 48.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI20",
+      "energy": 19.6,
+      "price": 49.94,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI20",
+      "energy": 29.4,
+      "price": 52.01,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI20",
+      "energy": 135.2,
+      "price": 52.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI20",
+      "energy": 19.6,
+      "price": 54.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CAMGI20",
+      "energy": 19.6,
+      "price": 54.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEGPM4",
+      "energy": 44.2,
+      "price": 97.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD002",
+      "energy": 2.1,
+      "price": 61.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD004",
+      "energy": 5.4,
+      "price": 77.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD004",
+      "energy": 2.4,
+      "price": 85.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD014",
+      "energy": 21.4,
+      "price": 59.8,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD022",
+      "energy": 9.3,
+      "price": 101.39,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD038",
+      "energy": 47.1,
+      "price": 70.33,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD051",
+      "energy": 7.5,
+      "price": 57.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD051",
+      "energy": 9.3,
+      "price": 58.99,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD053",
+      "energy": 21.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD057",
+      "energy": 6.8,
+      "price": 96.33,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD063",
+      "energy": 9.7,
+      "price": 60.83,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD076",
+      "energy": 29.5,
+      "price": 83.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD076",
+      "energy": 16.5,
+      "price": 101.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD204",
+      "energy": 2.8,
+      "price": 56.29,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD205",
+      "energy": 10.4,
+      "price": 101.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD209",
+      "energy": 11.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD235",
+      "energy": 3.1,
+      "price": 102.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD267",
+      "energy": 16.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD276",
+      "energy": 2.4,
+      "price": 104.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD279",
+      "energy": 23.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD280",
+      "energy": 1.2,
+      "price": 92.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD281",
+      "energy": 9.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD282",
+      "energy": 8.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD283",
+      "energy": 11.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD284",
+      "energy": 9.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD287",
+      "energy": 10.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD289",
+      "energy": 19.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD294",
+      "energy": 3.6,
+      "price": 58.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD295",
+      "energy": 4.7,
+      "price": 58.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD302",
+      "energy": 12.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD319",
+      "energy": 50.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD320",
+      "energy": 27.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD321",
+      "energy": 23.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD322",
+      "energy": 6.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD323",
+      "energy": 75.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD324",
+      "energy": 26.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD325",
+      "energy": 19.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD326",
+      "energy": 26.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD327",
+      "energy": 3.6,
+      "price": 79.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD328",
+      "energy": 9.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD329",
+      "energy": 8.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD335",
+      "energy": 112.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CEVD336",
+      "energy": 14.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CILCOR",
+      "energy": 27.1,
+      "price": 51.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD07",
+      "energy": 11.9,
+      "price": 59.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD08",
+      "energy": 6.3,
+      "price": 92.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD09",
+      "energy": 2.0,
+      "price": 93.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD10",
+      "energy": 3.1,
+      "price": 92.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD11",
+      "energy": 6.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD14",
+      "energy": 4.7,
+      "price": 90.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD15",
+      "energy": 1.9,
+      "price": 57.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD16",
+      "energy": 7.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD17",
+      "energy": 24.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD18",
+      "energy": 10.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD19",
+      "energy": 38.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD20",
+      "energy": 17.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD21",
+      "energy": 34.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD22",
+      "energy": 17.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD23",
+      "energy": 11.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD24",
+      "energy": 3.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CLIVD25",
+      "energy": 24.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COG75RR",
+      "energy": 39.2,
+      "price": 51.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COGEVD1",
+      "energy": 9.2,
+      "price": 96.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COGEVD2",
+      "energy": 1.3,
+      "price": 91.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COGEVD3",
+      "energy": 1.8,
+      "price": 95.33,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COGEVD4",
+      "energy": 13.0,
+      "price": 103.63,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COGEVD5",
+      "energy": 5.5,
+      "price": 90.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COGEVD7",
+      "energy": 2.7,
+      "price": 100.8,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COGEVD8",
+      "energy": 3.4,
+      "price": 96.83,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COL4",
+      "energy": 131.8,
+      "price": 46.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COL4",
+      "energy": 91.3,
+      "price": 53.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "COL4",
+      "energy": 41.9,
+      "price": 55.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 1.7,
+      "price": 46.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 46.95,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 36.9,
+      "price": 47.5,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 48.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 51.17,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 111.6,
+      "price": 51.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 52.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 53.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 54.6,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 55.01,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 55.14,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN1",
+      "energy": 15.2,
+      "price": 56.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 47.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 33.3,
+      "price": 47.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 47.93,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 51.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 111.6,
+      "price": 51.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 52.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 53.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 54.6,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 54.95,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 55.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 15.2,
+      "price": 55.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTGN3",
+      "energy": 1.7,
+      "price": 55.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTJON1",
+      "energy": 249.3,
+      "price": 55.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 16.9,
+      "price": 47.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 1.2,
+      "price": 47.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 46.8,
+      "price": 48.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 16.9,
+      "price": 49.18,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 16.9,
+      "price": 51.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 72.4,
+      "price": 51.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 103.0,
+      "price": 52.17,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 36.7,
+      "price": 52.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 67.6,
+      "price": 53.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 16.9,
+      "price": 53.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 16.9,
+      "price": 54.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 16.9,
+      "price": 56.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTN3",
+      "energy": 99.7,
+      "price": 56.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTNU",
+      "energy": 121.7,
+      "price": 46.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTNU",
+      "energy": 27.1,
+      "price": 48.14,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTNU",
+      "energy": 20.3,
+      "price": 49.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTNU",
+      "energy": 30.4,
+      "price": 51.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTNU",
+      "energy": 30.4,
+      "price": 52.54,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTNU",
+      "energy": 27.1,
+      "price": 53.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "CTNU",
+      "energy": 11.7,
+      "price": 55.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETCRE1",
+      "energy": 2.5,
+      "price": 94.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD03",
+      "energy": 1.5,
+      "price": 57.23,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD08",
+      "energy": 8.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD09",
+      "energy": 53.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD10",
+      "energy": 7.4,
+      "price": 96.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD11",
+      "energy": 2.3,
+      "price": 90.39,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD18",
+      "energy": 6.0,
+      "price": 105.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD25",
+      "energy": 2.1,
+      "price": 101.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD27",
+      "energy": 2.8,
+      "price": 92.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD28",
+      "energy": 16.0,
+      "price": 68.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD29",
+      "energy": 1.4,
+      "price": 60.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD30",
+      "energy": 9.6,
+      "price": 90.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD31",
+      "energy": 20.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD35",
+      "energy": 18.3,
+      "price": 82.17,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD36",
+      "energy": 6.5,
+      "price": 78.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD37",
+      "energy": 40.1,
+      "price": 56.53,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD40",
+      "energy": 1.9,
+      "price": 105.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD42",
+      "energy": 1.9,
+      "price": 94.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD45",
+      "energy": 31.2,
+      "price": 105.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD47",
+      "energy": 3.7,
+      "price": 95.52,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD48",
+      "energy": 1.6,
+      "price": 104.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DETVD51",
+      "energy": 1.2,
+      "price": 57.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 76.4,
+      "price": 62.95,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 81.5,
+      "price": 68.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 146.4,
+      "price": 72.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 81.5,
+      "price": 75.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 371.2,
+      "price": 80.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 76.4,
+      "price": 87.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 34.0,
+      "price": 90.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 133.7,
+      "price": 95.18,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 52.2,
+      "price": 95.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DOUSUP",
+      "energy": 35.0,
+      "price": 99.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 65.1,
+      "price": 57.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 198.1,
+      "price": 58.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 1760.6,
+      "price": 60.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 245.1,
+      "price": 62.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 198.1,
+      "price": 63.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 65.1,
+      "price": 65.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 198.1,
+      "price": 69.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 73.6,
+      "price": 73.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 198.1,
+      "price": 77.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 210.5,
+      "price": 93.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "DUE",
+      "energy": 65.1,
+      "price": 97.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "E21VD01",
+      "energy": 27.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "E21VD03",
+      "energy": 3.0,
+      "price": 67.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLCVD1",
+      "energy": 3.5,
+      "price": 89.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLCVD2",
+      "energy": 8.1,
+      "price": 91.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLCVD3",
+      "energy": 10.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLCVD4",
+      "energy": 12.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLCVD6",
+      "energy": 13.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLCVD7",
+      "energy": 13.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLCVD8",
+      "energy": 5.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLCVD9",
+      "energy": 14.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD10",
+      "energy": 9.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD11",
+      "energy": 2.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD12",
+      "energy": 6.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD13",
+      "energy": 17.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD14",
+      "energy": 11.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD15",
+      "energy": 4.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD16",
+      "energy": 5.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD17",
+      "energy": 5.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD20",
+      "energy": 4.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD21",
+      "energy": 7.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD22",
+      "energy": 35.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD23",
+      "energy": 8.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD24",
+      "energy": 26.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD25",
+      "energy": 17.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBLVD33",
+      "energy": 8.3,
+      "price": 99.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBRA",
+      "energy": 1125.8,
+      "price": 91.83,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EBRERZ",
+      "energy": 5.4,
+      "price": 86.29,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ECT3",
+      "energy": 98.0,
+      "price": 49.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ECT3",
+      "energy": 302.9,
+      "price": 49.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ECT3",
+      "energy": 152.1,
+      "price": 50.18,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ECYRRE1",
+      "energy": 699.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDPGPV2",
+      "energy": 85.6,
+      "price": 54.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE003",
+      "energy": 7.7,
+      "price": 95.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE009",
+      "energy": 1.7,
+      "price": 50.01,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE012",
+      "energy": 19.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE013",
+      "energy": 22.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE014",
+      "energy": 49.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE015",
+      "energy": 11.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE016",
+      "energy": 23.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE017",
+      "energy": 32.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE018",
+      "energy": 87.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE019",
+      "energy": 41.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE020",
+      "energy": 28.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE021",
+      "energy": 32.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE022",
+      "energy": 24.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE023",
+      "energy": 23.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE025",
+      "energy": 46.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE026",
+      "energy": 38.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE027",
+      "energy": 39.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE028",
+      "energy": 125.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE029",
+      "energy": 21.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE030",
+      "energy": 7.7,
+      "price": 65.63,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EDRE030",
+      "energy": 8.9,
+      "price": 85.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EFGVD10",
+      "energy": 44.8,
+      "price": 66.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EFGVD9",
+      "energy": 11.2,
+      "price": 99.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDRE1",
+      "energy": 1379.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDRE2",
+      "energy": 38.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDRE3",
+      "energy": 145.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDRE5",
+      "energy": 151.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDRE6",
+      "energy": 431.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDRE9",
+      "energy": 538.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDVD3",
+      "energy": 117.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDVD4",
+      "energy": 13.0,
+      "price": 71.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDVD4",
+      "energy": 8.9,
+      "price": 96.29,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDVD5",
+      "energy": 104.8,
+      "price": 56.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDVD6",
+      "energy": 179.0,
+      "price": 58.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDVD6",
+      "energy": 14.2,
+      "price": 97.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGEDVD7",
+      "energy": 182.5,
+      "price": 58.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGLEV2",
+      "energy": 63.1,
+      "price": 64.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGLEVD1",
+      "energy": 89.5,
+      "price": 90.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGPM003",
+      "energy": 3.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGPM004",
+      "energy": 2.4,
+      "price": 95.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGPRE02",
+      "energy": 671.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGPRE23",
+      "energy": 6.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGPRE26",
+      "energy": 37.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGPRE80",
+      "energy": 32.4,
+      "price": 93.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGPRE82",
+      "energy": 10.7,
+      "price": 92.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD007",
+      "energy": 3.2,
+      "price": 64.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD011",
+      "energy": 1.4,
+      "price": 52.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD013",
+      "energy": 123.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD015",
+      "energy": 19.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD024",
+      "energy": 59.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD051",
+      "energy": 42.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD052",
+      "energy": 15.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD053",
+      "energy": 3.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD055",
+      "energy": 53.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD056",
+      "energy": 18.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD058",
+      "energy": 33.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD059",
+      "energy": 4.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD060",
+      "energy": 23.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD061",
+      "energy": 1.4,
+      "price": 56.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD062",
+      "energy": 9.1,
+      "price": 55.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD063",
+      "energy": 10.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD064",
+      "energy": 6.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD065",
+      "energy": 14.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD066",
+      "energy": 11.2,
+      "price": 56.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD067",
+      "energy": 30.4,
+      "price": 53.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD068",
+      "energy": 11.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD074",
+      "energy": 43.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD075",
+      "energy": 47.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD076",
+      "energy": 218.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD077",
+      "energy": 11.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD083",
+      "energy": 37.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD085",
+      "energy": 56.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD086",
+      "energy": 1.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD087",
+      "energy": 4.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD088",
+      "energy": 6.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD089",
+      "energy": 4.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD090",
+      "energy": 16.2,
+      "price": 49.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD092",
+      "energy": 2.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD094",
+      "energy": 27.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD095",
+      "energy": 19.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD096",
+      "energy": 25.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD097",
+      "energy": 50.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD099",
+      "energy": 8.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD100",
+      "energy": 7.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD104",
+      "energy": 5.9,
+      "price": 52.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD107",
+      "energy": 10.7,
+      "price": 50.04,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD108",
+      "energy": 6.0,
+      "price": 52.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD109",
+      "energy": 7.5,
+      "price": 52.17,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD113",
+      "energy": 5.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD114",
+      "energy": 8.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD115",
+      "energy": 10.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD116",
+      "energy": 2.4,
+      "price": 55.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD121",
+      "energy": 6.8,
+      "price": 50.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD122",
+      "energy": 21.6,
+      "price": 49.55,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD123",
+      "energy": 8.5,
+      "price": 49.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD124",
+      "energy": 34.9,
+      "price": 54.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD134",
+      "energy": 2.4,
+      "price": 90.41,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD137",
+      "energy": 13.5,
+      "price": 55.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD138",
+      "energy": 19.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD146",
+      "energy": 30.7,
+      "price": 56.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD148",
+      "energy": 14.0,
+      "price": 57.8,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD149",
+      "energy": 8.2,
+      "price": 47.39,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD152",
+      "energy": 7.7,
+      "price": 101.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD156",
+      "energy": 11.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD176",
+      "energy": 6.5,
+      "price": 48.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD178",
+      "energy": 2.7,
+      "price": 65.17,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD181",
+      "energy": 2.4,
+      "price": 66.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD183",
+      "energy": 1.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD193",
+      "energy": 7.1,
+      "price": 85.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD195",
+      "energy": 6.5,
+      "price": 77.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD197",
+      "energy": 57.9,
+      "price": 59.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD201",
+      "energy": 4.8,
+      "price": 64.18,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD202",
+      "energy": 5.4,
+      "price": 55.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD203",
+      "energy": 4.8,
+      "price": 67.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD205",
+      "energy": 2.4,
+      "price": 62.53,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD207",
+      "energy": 3.0,
+      "price": 101.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD212",
+      "energy": 5.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD217",
+      "energy": 2.9,
+      "price": 47.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD219",
+      "energy": 2.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD221",
+      "energy": 3.6,
+      "price": 99.54,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD222",
+      "energy": 3.2,
+      "price": 64.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD223",
+      "energy": 14.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD224",
+      "energy": 3.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD225",
+      "energy": 2.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD226",
+      "energy": 4.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD227",
+      "energy": 3.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD228",
+      "energy": 1.2,
+      "price": 102.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD230",
+      "energy": 2.5,
+      "price": 49.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD232",
+      "energy": 1.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD237",
+      "energy": 7.1,
+      "price": 69.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD238",
+      "energy": 1.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD242",
+      "energy": 3.6,
+      "price": 72.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD246",
+      "energy": 2.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD248",
+      "energy": 2.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD250",
+      "energy": 6.5,
+      "price": 56.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD255",
+      "energy": 3.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD258",
+      "energy": 10.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD259",
+      "energy": 3.7,
+      "price": 46.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD261",
+      "energy": 3.1,
+      "price": 52.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD263",
+      "energy": 2.0,
+      "price": 51.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD264",
+      "energy": 7.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD265",
+      "energy": 10.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD266",
+      "energy": 4.8,
+      "price": 70.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD272",
+      "energy": 14.8,
+      "price": 79.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD276",
+      "energy": 10.1,
+      "price": 86.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD277",
+      "energy": 2.4,
+      "price": 60.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD279",
+      "energy": 1.2,
+      "price": 69.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD280",
+      "energy": 1.8,
+      "price": 94.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD281",
+      "energy": 4.2,
+      "price": 76.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD282",
+      "energy": 1.2,
+      "price": 77.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD285",
+      "energy": 8.7,
+      "price": 47.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD287",
+      "energy": 2.4,
+      "price": 64.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD288",
+      "energy": 48.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD289",
+      "energy": 11.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD290",
+      "energy": 12.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD291",
+      "energy": 51.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD292",
+      "energy": 170.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD293",
+      "energy": 87.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD295",
+      "energy": 4.9,
+      "price": 65.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD297",
+      "energy": 5.0,
+      "price": 46.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD299",
+      "energy": 5.8,
+      "price": 53.95,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD300",
+      "energy": 5.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD301",
+      "energy": 3.1,
+      "price": 50.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD355",
+      "energy": 3.3,
+      "price": 48.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD356",
+      "energy": 16.0,
+      "price": 49.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD357",
+      "energy": 5.4,
+      "price": 60.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD359",
+      "energy": 3.8,
+      "price": 56.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD361",
+      "energy": 3.1,
+      "price": 55.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD363",
+      "energy": 30.4,
+      "price": 48.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD364",
+      "energy": 30.4,
+      "price": 51.56,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD365",
+      "energy": 30.4,
+      "price": 55.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD366",
+      "energy": 2.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD369",
+      "energy": 2.7,
+      "price": 53.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD372",
+      "energy": 30.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD373",
+      "energy": 22.0,
+      "price": 50.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD375",
+      "energy": 7.5,
+      "price": 52.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD376",
+      "energy": 17.7,
+      "price": 64.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD379",
+      "energy": 40.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD380",
+      "energy": 8.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD381",
+      "energy": 1.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD385",
+      "energy": 19.5,
+      "price": 47.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD393",
+      "energy": 3.8,
+      "price": 54.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD394",
+      "energy": 2.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD395",
+      "energy": 2.9,
+      "price": 55.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD396",
+      "energy": 5.8,
+      "price": 56.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD398",
+      "energy": 9.3,
+      "price": 53.55,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD404",
+      "energy": 12.7,
+      "price": 58.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD406",
+      "energy": 13.4,
+      "price": 51.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD407",
+      "energy": 4.7,
+      "price": 47.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD408",
+      "energy": 10.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD410",
+      "energy": 4.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD411",
+      "energy": 28.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD412",
+      "energy": 164.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD429",
+      "energy": 11.2,
+      "price": 55.91,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD430",
+      "energy": 4.7,
+      "price": 61.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD436",
+      "energy": 7.1,
+      "price": 56.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD437",
+      "energy": 7.1,
+      "price": 60.14,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD438",
+      "energy": 6.5,
+      "price": 57.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD439",
+      "energy": 5.0,
+      "price": 56.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD446",
+      "energy": 52.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD447",
+      "energy": 3.6,
+      "price": 85.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD454",
+      "energy": 57.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD455",
+      "energy": 28.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD456",
+      "energy": 36.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD457",
+      "energy": 20.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD458",
+      "energy": 19.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD459",
+      "energy": 13.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD460",
+      "energy": 20.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EGVD461",
+      "energy": 2.3,
+      "price": 47.92,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EMORPRR",
+      "energy": 50.2,
+      "price": 53.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD02",
+      "energy": 58.4,
+      "price": 57.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 54.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 63.6,
+      "price": 54.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 57.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 57.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 57.8,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 58.08,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 58.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.4,
+      "price": 59.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 60.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 5.6,
+      "price": 61.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 62.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 63.08,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 63.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 64.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD03",
+      "energy": 1.9,
+      "price": 65.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD04",
+      "energy": 4.5,
+      "price": 55.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD05",
+      "energy": 30.8,
+      "price": 54.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD05",
+      "energy": 19.5,
+      "price": 61.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD07",
+      "energy": 22.8,
+      "price": 63.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD09",
+      "energy": 18.6,
+      "price": 57.29,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD09",
+      "energy": 2.5,
+      "price": 65.3,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD10",
+      "energy": 4.5,
+      "price": 63.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD10",
+      "energy": 19.3,
+      "price": 64.16,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD11",
+      "energy": 24.5,
+      "price": 64.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD12",
+      "energy": 8.7,
+      "price": 52.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 55.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 56.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 56.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 57.66,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 58.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 59.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 60.99,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 63.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 63.92,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 54.7,
+      "price": 64.06,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 64.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD14",
+      "energy": 1.9,
+      "price": 65.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 54.66,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 55.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 55.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 57.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 57.26,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 57.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 54.7,
+      "price": 60.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 62.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 62.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 63.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 64.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENRVD15",
+      "energy": 1.9,
+      "price": 65.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENURE01",
+      "energy": 10.1,
+      "price": 49.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENURE01",
+      "energy": 11.4,
+      "price": 50.73,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENURE01",
+      "energy": 1.0,
+      "price": 53.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENURE03",
+      "energy": 3.4,
+      "price": 56.53,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENURE04",
+      "energy": 1.2,
+      "price": 95.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ENURE05",
+      "energy": 5.0,
+      "price": 52.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 16.9,
+      "price": 47.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 16.9,
+      "price": 48.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 124.3,
+      "price": 48.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 67.6,
+      "price": 51.21,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 114.9,
+      "price": 52.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 57.5,
+      "price": 53.91,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 16.9,
+      "price": 53.95,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 16.9,
+      "price": 54.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 70.9,
+      "price": 55.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 16.9,
+      "price": 56.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESC6",
+      "energy": 31.7,
+      "price": 56.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC1",
+      "energy": 19.4,
+      "price": 47.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC1",
+      "energy": 30.4,
+      "price": 47.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC1",
+      "energy": 30.4,
+      "price": 49.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC1",
+      "energy": 30.4,
+      "price": 51.26,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC1",
+      "energy": 30.4,
+      "price": 52.3,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC1",
+      "energy": 30.4,
+      "price": 55.55,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC1",
+      "energy": 104.8,
+      "price": 56.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC2",
+      "energy": 14.5,
+      "price": 47.92,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC2",
+      "energy": 31.4,
+      "price": 48.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC2",
+      "energy": 31.4,
+      "price": 49.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC2",
+      "energy": 31.4,
+      "price": 50.52,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC2",
+      "energy": 104.8,
+      "price": 52.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC2",
+      "energy": 31.4,
+      "price": 52.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC2",
+      "energy": 31.4,
+      "price": 55.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC3",
+      "energy": 31.4,
+      "price": 47.54,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC3",
+      "energy": 31.4,
+      "price": 48.92,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC3",
+      "energy": 31.4,
+      "price": 49.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC3",
+      "energy": 31.4,
+      "price": 52.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC3",
+      "energy": 104.8,
+      "price": 55.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC3",
+      "energy": 10.2,
+      "price": 56.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ESCCC3",
+      "energy": 31.4,
+      "price": 56.53,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EYPRE02",
+      "energy": 1.8,
+      "price": 88.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "EYPRE03",
+      "energy": 1.8,
+      "price": 62.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "FENVD03",
+      "energy": 13.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GALPWG2",
+      "energy": 1246.2,
+      "price": 58.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASNVD2",
+      "energy": 358.4,
+      "price": 66.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASNVD2",
+      "energy": 10.1,
+      "price": 76.56,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASNVD4",
+      "energy": 4.7,
+      "price": 49.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASNVD4",
+      "energy": 8.9,
+      "price": 50.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASNVD4",
+      "energy": 2.4,
+      "price": 52.21,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASNVD4",
+      "energy": 4.1,
+      "price": 52.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASNVD6",
+      "energy": 144.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASNVD9",
+      "energy": 249.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASVD10",
+      "energy": 5.4,
+      "price": 50.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASVD11",
+      "energy": 184.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GASVD12",
+      "energy": 511.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GCLDPV2",
+      "energy": 9.2,
+      "price": 56.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEDFTV1",
+      "energy": 40.8,
+      "price": 61.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEFGV1",
+      "energy": 63.6,
+      "price": 61.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEMVD04",
+      "energy": 16.7,
+      "price": 52.73,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEMVD06",
+      "energy": 16.4,
+      "price": 54.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEMVD10",
+      "energy": 5.2,
+      "price": 49.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEMVD17",
+      "energy": 1.7,
+      "price": 57.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEMVD18",
+      "energy": 7.7,
+      "price": 48.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEMVD19",
+      "energy": 1.8,
+      "price": 49.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEMVD20",
+      "energy": 2.3,
+      "price": 54.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GEPLAS",
+      "energy": 51.8,
+      "price": 51.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GESTVD4",
+      "energy": 47.7,
+      "price": 61.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GESVD12",
+      "energy": 1.8,
+      "price": 55.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GESVD37",
+      "energy": 11.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GESVD39",
+      "energy": 83.4,
+      "price": 58.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNANDU",
+      "energy": 1.8,
+      "price": 91.93,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNEBRO",
+      "energy": 50.7,
+      "price": 79.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD13",
+      "energy": 57.1,
+      "price": 70.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD14",
+      "energy": 64.8,
+      "price": 71.41,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD15",
+      "energy": 7.1,
+      "price": 88.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD18",
+      "energy": 4.8,
+      "price": 81.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD21",
+      "energy": 1.2,
+      "price": 100.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD22",
+      "energy": 4.2,
+      "price": 68.53,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD25",
+      "energy": 3.8,
+      "price": 64.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD26",
+      "energy": 8.8,
+      "price": 59.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD29",
+      "energy": 2.5,
+      "price": 64.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD35",
+      "energy": 4.4,
+      "price": 51.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD36",
+      "energy": 3.5,
+      "price": 50.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD43",
+      "energy": 1.4,
+      "price": 50.94,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD56",
+      "energy": 4.2,
+      "price": 95.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD57",
+      "energy": 1.2,
+      "price": 94.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD84",
+      "energy": 8.3,
+      "price": 77.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNRVD88",
+      "energy": 3.0,
+      "price": 67.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNSUVD3",
+      "energy": 1.2,
+      "price": 71.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNVD110",
+      "energy": 1.2,
+      "price": 57.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNVD130",
+      "energy": 34.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNVD132",
+      "energy": 28.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNVD142",
+      "energy": 51.3,
+      "price": 66.3,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNVD150",
+      "energy": 25.4,
+      "price": 94.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GNVD151",
+      "energy": 10.1,
+      "price": 54.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GRDZR",
+      "energy": 4.2,
+      "price": 81.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GSMGV1",
+      "energy": 103.6,
+      "price": 56.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GUADIA",
+      "energy": 66.9,
+      "price": 57.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GUADIA",
+      "energy": 66.9,
+      "price": 71.3,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GUADIA",
+      "energy": 66.9,
+      "price": 86.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GUADIA",
+      "energy": 42.0,
+      "price": 96.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "GUI",
+      "energy": 81.4,
+      "price": 81.08,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCGVD09",
+      "energy": 3.4,
+      "price": 51.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCGVD11",
+      "energy": 792.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCGVD12",
+      "energy": 548.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCGVD13",
+      "energy": 25.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCGVD14",
+      "energy": 129.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCGVD15",
+      "energy": 10.7,
+      "price": 68.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCGVD16",
+      "energy": 11.8,
+      "price": 84.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 0.7,
+      "price": 56.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 0.7,
+      "price": 66.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 117.8,
+      "price": 72.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 0.7,
+      "price": 78.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 0.7,
+      "price": 81.21,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 0.7,
+      "price": 81.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 0.7,
+      "price": 90.01,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 0.7,
+      "price": 93.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HCHI",
+      "energy": 117.8,
+      "price": 99.33,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD01",
+      "energy": 3.6,
+      "price": 46.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD01",
+      "energy": 16.6,
+      "price": 50.55,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD02",
+      "energy": 7.8,
+      "price": 48.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD03",
+      "energy": 13.5,
+      "price": 47.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD03",
+      "energy": 4.1,
+      "price": 54.26,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD04",
+      "energy": 7.5,
+      "price": 52.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD04",
+      "energy": 4.7,
+      "price": 55.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD05",
+      "energy": 4.6,
+      "price": 47.92,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD05",
+      "energy": 15.7,
+      "price": 56.63,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD06",
+      "energy": 4.5,
+      "price": 50.56,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD06",
+      "energy": 3.6,
+      "price": 53.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD07",
+      "energy": 14.9,
+      "price": 47.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD07",
+      "energy": 5.2,
+      "price": 52.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD08",
+      "energy": 15.6,
+      "price": 47.08,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD08",
+      "energy": 4.7,
+      "price": 55.41,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD10",
+      "energy": 6.2,
+      "price": 54.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD10",
+      "energy": 24.5,
+      "price": 55.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD14",
+      "energy": 19.5,
+      "price": 67.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD15",
+      "energy": 175.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD16",
+      "energy": 24.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD17",
+      "energy": 9.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD18",
+      "energy": 12.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD27",
+      "energy": 45.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD28",
+      "energy": 32.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD29",
+      "energy": 10.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD30",
+      "energy": 13.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD31",
+      "energy": 11.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD32",
+      "energy": 29.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD33",
+      "energy": 18.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "HISVD34",
+      "energy": 16.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IBEVD12",
+      "energy": 23.7,
+      "price": 53.23,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IBEVD14",
+      "energy": 10.7,
+      "price": 93.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IBEVD15",
+      "energy": 10.1,
+      "price": 55.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IBEVD17",
+      "energy": 63.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IBGEVD2",
+      "energy": 9.5,
+      "price": 47.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IBGEVD2",
+      "energy": 69.4,
+      "price": 51.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IBGEVD9",
+      "energy": 11.4,
+      "price": 52.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ICUVD02",
+      "energy": 31.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ICUVD05",
+      "energy": 6.5,
+      "price": 55.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ICUVD06",
+      "energy": 10.6,
+      "price": 59.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD02",
+      "energy": 9.9,
+      "price": 53.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD03",
+      "energy": 9.7,
+      "price": 50.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD04",
+      "energy": 8.3,
+      "price": 53.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD05",
+      "energy": 9.8,
+      "price": 49.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD09",
+      "energy": 9.6,
+      "price": 51.52,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD10",
+      "energy": 9.8,
+      "price": 51.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD29",
+      "energy": 57.7,
+      "price": 62.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD29",
+      "energy": 517.9,
+      "price": 90.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD31",
+      "energy": 13.6,
+      "price": 87.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD32",
+      "energy": 13.0,
+      "price": 64.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD33",
+      "energy": 8.3,
+      "price": 49.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD34",
+      "energy": 11.0,
+      "price": 53.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD35",
+      "energy": 11.0,
+      "price": 52.99,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD36",
+      "energy": 8.1,
+      "price": 46.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD37",
+      "energy": 15.8,
+      "price": 54.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD38",
+      "energy": 9.5,
+      "price": 47.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD39",
+      "energy": 27.9,
+      "price": 61.95,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD49",
+      "energy": 3.0,
+      "price": 67.06,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD59",
+      "energy": 2.9,
+      "price": 47.93,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD59",
+      "energy": 1.9,
+      "price": 50.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD63",
+      "energy": 184.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD64",
+      "energy": 81.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD65",
+      "energy": 87.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD66",
+      "energy": 26.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD67",
+      "energy": 53.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IGNVD68",
+      "energy": 78.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "INTRE01",
+      "energy": 17.7,
+      "price": 80.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "INTVD01",
+      "energy": 26.5,
+      "price": 99.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "IP",
+      "energy": 14.2,
+      "price": 68.8,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ITUVD01",
+      "energy": 1.2,
+      "price": 80.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ITUVD02",
+      "energy": 3.6,
+      "price": 57.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "JUCA",
+      "energy": 3845.2,
+      "price": 70.63,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "LAUEVD3",
+      "energy": 4.2,
+      "price": 63.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "LMERVD3",
+      "energy": 3.0,
+      "price": 73.3,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "LMEVD17",
+      "energy": 3.4,
+      "price": 60.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "LMEVD18",
+      "energy": 4.3,
+      "price": 57.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "LUZBV02",
+      "energy": 82.6,
+      "price": 63.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 15.9,
+      "price": 47.73,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 14.9,
+      "price": 48.41,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 15.9,
+      "price": 48.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 15.9,
+      "price": 49.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 111.6,
+      "price": 49.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 15.9,
+      "price": 51.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 15.9,
+      "price": 51.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 15.9,
+      "price": 51.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 31.1,
+      "price": 54.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 15.9,
+      "price": 55.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MALA1",
+      "energy": 15.9,
+      "price": 55.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MLT",
+      "energy": 76.8,
+      "price": 74.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "energy": 114.4,
+      "price": 67.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "energy": 54.1,
+      "price": 80.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "energy": 54.1,
+      "price": 89.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "MONDEGO",
+      "energy": 54.1,
+      "price": 97.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD05",
+      "energy": 42.4,
+      "price": 94.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD09",
+      "energy": 3.2,
+      "price": 57.5,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD20",
+      "energy": 29.1,
+      "price": 47.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD22",
+      "energy": 14.3,
+      "price": 49.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD23",
+      "energy": 20.8,
+      "price": 57.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD28",
+      "energy": 124.8,
+      "price": 77.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD36",
+      "energy": 1.2,
+      "price": 48.08,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD46",
+      "energy": 27.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD52",
+      "energy": 6.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD77",
+      "energy": 4.5,
+      "price": 55.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD80",
+      "energy": 3.9,
+      "price": 49.52,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD85",
+      "energy": 2.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD86",
+      "energy": 113.1,
+      "price": 91.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD87",
+      "energy": 1.1,
+      "price": 55.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD88",
+      "energy": 16.5,
+      "price": 56.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NEXVD90",
+      "energy": 1.9,
+      "price": 55.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD109",
+      "energy": 10.1,
+      "price": 55.16,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD110",
+      "energy": 1.2,
+      "price": 91.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD112",
+      "energy": 37.1,
+      "price": 56.55,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD114",
+      "energy": 9.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD117",
+      "energy": 10.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD126",
+      "energy": 15.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD142",
+      "energy": 7.7,
+      "price": 92.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD143",
+      "energy": 20.7,
+      "price": 83.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD145",
+      "energy": 24.2,
+      "price": 97.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD152",
+      "energy": 33.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD162",
+      "energy": 2.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD163",
+      "energy": 7.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD164",
+      "energy": 15.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD165",
+      "energy": 1.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD166",
+      "energy": 28.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD167",
+      "energy": 3.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD168",
+      "energy": 22.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD169",
+      "energy": 24.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD170",
+      "energy": 2.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD171",
+      "energy": 15.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD172",
+      "energy": 18.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD173",
+      "energy": 9.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD174",
+      "energy": 24.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD175",
+      "energy": 7.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD208",
+      "energy": 12.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD209",
+      "energy": 18.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD210",
+      "energy": 4.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD211",
+      "energy": 17.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD218",
+      "energy": 1.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD219",
+      "energy": 28.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD226",
+      "energy": 11.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD227",
+      "energy": 15.1,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD228",
+      "energy": 15.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD229",
+      "energy": 38.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD231",
+      "energy": 14.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD232",
+      "energy": 13.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD237",
+      "energy": 39.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "NXVD245",
+      "energy": 1.4,
+      "price": 52.48,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 12.9,
+      "price": 47.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 12.9,
+      "price": 48.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 121.7,
+      "price": 50.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 12.9,
+      "price": 51.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 36.6,
+      "price": 52.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 12.9,
+      "price": 52.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 12.9,
+      "price": 53.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 12.9,
+      "price": 54.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 5.4,
+      "price": 54.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 12.9,
+      "price": 55.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS1",
+      "energy": 12.9,
+      "price": 56.04,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 12.9,
+      "price": 46.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 12.9,
+      "price": 46.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 5.4,
+      "price": 47.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 12.9,
+      "price": 47.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 12.9,
+      "price": 50.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 12.9,
+      "price": 50.93,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 32.3,
+      "price": 51.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 128.5,
+      "price": 51.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 12.9,
+      "price": 52.3,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 12.9,
+      "price": 53.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PALOS3",
+      "energy": 12.9,
+      "price": 53.93,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 16.9,
+      "price": 47.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 16.9,
+      "price": 47.6,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 16.9,
+      "price": 47.72,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 6.8,
+      "price": 49.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 16.9,
+      "price": 50.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 114.9,
+      "price": 51.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 16.9,
+      "price": 51.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 16.9,
+      "price": 52.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 45.4,
+      "price": 52.16,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 16.9,
+      "price": 53.55,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN1",
+      "energy": 16.9,
+      "price": 55.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 16.9,
+      "price": 47.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 40.2,
+      "price": 49.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 16.9,
+      "price": 49.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 16.9,
+      "price": 51.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 114.9,
+      "price": 51.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 16.9,
+      "price": 52.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 16.9,
+      "price": 53.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 16.9,
+      "price": 54.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 16.9,
+      "price": 55.33,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 10.2,
+      "price": 56.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PBCN2",
+      "energy": 16.9,
+      "price": 56.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PEGO3",
+      "energy": 46.6,
+      "price": 50.8,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PEGO3",
+      "energy": 165.0,
+      "price": 51.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PEGO3",
+      "energy": 81.1,
+      "price": 54.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PEGO4",
+      "energy": 77.6,
+      "price": 49.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PEGO4",
+      "energy": 50.1,
+      "price": 50.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PEGO4",
+      "energy": 165.0,
+      "price": 50.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PEURE01",
+      "energy": 34.8,
+      "price": 88.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PGR1",
+      "energy": 202.8,
+      "price": 48.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PGR1",
+      "energy": 34.6,
+      "price": 49.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PGR5",
+      "energy": 65.6,
+      "price": 46.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PGR5",
+      "energy": 92.0,
+      "price": 50.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PGR5",
+      "energy": 355.4,
+      "price": 53.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PGR5",
+      "energy": 65.6,
+      "price": 54.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PLGRE01",
+      "energy": 4.6,
+      "price": 50.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PVENT2",
+      "energy": 33.8,
+      "price": 52.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PVENT2",
+      "energy": 33.8,
+      "price": 53.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PVENT2",
+      "energy": 135.2,
+      "price": 54.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PVENT2",
+      "energy": 33.8,
+      "price": 55.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "PVENT2",
+      "energy": 48.0,
+      "price": 56.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RABID2R",
+      "energy": 33.8,
+      "price": 49.06,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "REPVD01",
+      "energy": 7.5,
+      "price": 52.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "REPVD02",
+      "energy": 26.4,
+      "price": 52.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "REPVD03",
+      "energy": 26.5,
+      "price": 56.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RESSECR",
+      "energy": 1.2,
+      "price": 66.6,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "energy": 14.0,
+      "price": 51.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "energy": 29.4,
+      "price": 52.53,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "energy": 28.0,
+      "price": 53.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "energy": 21.0,
+      "price": 54.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "energy": 10.5,
+      "price": 55.66,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE1",
+      "energy": 171.3,
+      "price": 56.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "energy": 10.5,
+      "price": 46.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "energy": 28.0,
+      "price": 47.79,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "energy": 178.3,
+      "price": 47.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "energy": 7.0,
+      "price": 50.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "energy": 21.0,
+      "price": 51.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE2",
+      "energy": 29.4,
+      "price": 52.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "energy": 171.3,
+      "price": 47.26,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "energy": 29.4,
+      "price": 47.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "energy": 14.0,
+      "price": 47.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "energy": 21.0,
+      "price": 49.94,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "energy": 28.0,
+      "price": 55.04,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RIBATE3",
+      "energy": 10.5,
+      "price": 55.39,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ROFVD01",
+      "energy": 6.0,
+      "price": 48.94,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ROFVD02",
+      "energy": 3.5,
+      "price": 49.07,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ROR_ES_30",
+      "energy": 113.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ROR_PT_30",
+      "energy": 1502.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RPTRTAR",
+      "energy": 51.3,
+      "price": 47.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RSPVD01",
+      "energy": 46.6,
+      "price": 71.69,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RSPVD05",
+      "energy": 23.6,
+      "price": 60.16,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RTG01",
+      "energy": 230.8,
+      "price": 52.52,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RTG02",
+      "energy": 230.8,
+      "price": 49.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RTG03",
+      "energy": 230.8,
+      "price": 55.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "RZABAL",
+      "energy": 54.8,
+      "price": 55.1,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 46.5,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 49.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 50.21,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 51.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 51.5,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 104.8,
+      "price": 51.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 53.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 55.04,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 8.8,
+      "price": 55.6,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 28.6,
+      "price": 55.65,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 55.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU1",
+      "energy": 15.6,
+      "price": 56.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 36.9,
+      "price": 47.54,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 48.88,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 49.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 50.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 52.63,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 104.8,
+      "price": 53.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 53.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 53.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 53.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 54.81,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 15.6,
+      "price": 55.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU2",
+      "energy": 2.0,
+      "price": 55.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 14.9,
+      "price": 46.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 32.9,
+      "price": 47.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 8.1,
+      "price": 47.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 14.9,
+      "price": 47.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 14.9,
+      "price": 47.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 14.9,
+      "price": 48.5,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 14.9,
+      "price": 49.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 108.2,
+      "price": 49.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 29.8,
+      "price": 49.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 14.9,
+      "price": 55.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAGU3",
+      "energy": 14.9,
+      "price": 56.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAMPVD1",
+      "energy": 3.3,
+      "price": 51.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAMPVD1",
+      "energy": 3.3,
+      "price": 56.55,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAMPVD2",
+      "energy": 9.5,
+      "price": 50.93,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAMPVD2",
+      "energy": 3.7,
+      "price": 53.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAMPVD2",
+      "energy": 3.7,
+      "price": 54.02,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SAMPVD2",
+      "energy": 3.7,
+      "price": 55.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 46.91,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 47.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 25.3,
+      "price": 47.73,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 47.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 49.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 49.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 50.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 6.8,
+      "price": 52.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 52.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 53.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 90.6,
+      "price": 55.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SBO3",
+      "energy": 16.2,
+      "price": 55.26,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SEDAVD1",
+      "energy": 6.8,
+      "price": 50.78,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SEDVD05",
+      "energy": 16.0,
+      "price": 48.4,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SEDVD06",
+      "energy": 31.9,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SESVD03",
+      "energy": 5.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SESVD04",
+      "energy": 11.2,
+      "price": 65.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SESVD05",
+      "energy": 2.7,
+      "price": 54.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SESVD08",
+      "energy": 3.2,
+      "price": 63.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SESVD15",
+      "energy": 1.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SESVD16",
+      "energy": 3.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SESVD18",
+      "energy": 3.2,
+      "price": 64.08,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SESVD21",
+      "energy": 1.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SEVARES",
+      "energy": 1.1,
+      "price": 49.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SIL",
+      "energy": 70.9,
+      "price": 57.99,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SIL",
+      "energy": 96.2,
+      "price": 61.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SIL",
+      "energy": 964.8,
+      "price": 62.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SIL",
+      "energy": 65.1,
+      "price": 74.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SIL",
+      "energy": 65.1,
+      "price": 74.52,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SIL",
+      "energy": 65.1,
+      "price": 92.9,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SIMPV02",
+      "energy": 13.3,
+      "price": 64.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SOL2",
+      "energy": 3.6,
+      "price": 89.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SOMRE03",
+      "energy": 1.8,
+      "price": 66.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI3",
+      "energy": 15.4,
+      "price": 91.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI3",
+      "energy": 15.4,
+      "price": 94.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI3",
+      "energy": 13.6,
+      "price": 96.92,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI3",
+      "energy": 15.3,
+      "price": 100.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI3",
+      "energy": 8.2,
+      "price": 100.51,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI3",
+      "energy": 73.1,
+      "price": 101.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI4R",
+      "energy": 25.0,
+      "price": 47.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI4R",
+      "energy": 25.0,
+      "price": 50.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI4R",
+      "energy": 25.0,
+      "price": 51.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI4R",
+      "energy": 57.5,
+      "price": 51.82,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI4R",
+      "energy": 13.5,
+      "price": 52.96,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI4R",
+      "energy": 142.0,
+      "price": 56.36,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI5",
+      "energy": 6.8,
+      "price": 46.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI5",
+      "energy": 27.1,
+      "price": 47.08,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI5",
+      "energy": 47.4,
+      "price": 47.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI5",
+      "energy": 155.5,
+      "price": 48.04,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI5",
+      "energy": 27.1,
+      "price": 50.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SRI5",
+      "energy": 25.7,
+      "price": 52.11,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 18.3,
+      "price": 46.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 18.3,
+      "price": 49.48,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 18.3,
+      "price": 49.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 18.3,
+      "price": 50.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 27.0,
+      "price": 50.89,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 18.3,
+      "price": 54.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 14.2,
+      "price": 54.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 18.3,
+      "price": 54.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 18.3,
+      "price": 54.83,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 18.3,
+      "price": 55.42,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ1",
+      "energy": 76.4,
+      "price": 56.18,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ2",
+      "energy": 197.3,
+      "price": 53.53,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "SROQ2",
+      "energy": 74.4,
+      "price": 54.48,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAJ",
+      "energy": 176.2,
+      "price": 66.92,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAJ",
+      "energy": 43.0,
+      "price": 67.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAJ",
+      "energy": 43.0,
+      "price": 87.55,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAJ",
+      "energy": 1128.2,
+      "price": 93.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAJ",
+      "energy": 176.2,
+      "price": 99.86,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAMEGA",
+      "energy": 458.2,
+      "price": 61.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAMEGA",
+      "energy": 140.1,
+      "price": 88.3,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAMEGA",
+      "energy": 1.0,
+      "price": 98.35,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 16.9,
+      "price": 47.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 16.9,
+      "price": 48.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 16.9,
+      "price": 49.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 6.8,
+      "price": 50.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 84.8,
+      "price": 50.46,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 6.8,
+      "price": 51.87,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 16.9,
+      "price": 54.49,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 11.2,
+      "price": 55.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 87.9,
+      "price": 56.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TAPOWER",
+      "energy": 16.9,
+      "price": 56.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 69.3,
+      "price": 59.67,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 7.8,
+      "price": 72.61,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 15.9,
+      "price": 77.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 69.3,
+      "price": 80.15,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 29.1,
+      "price": 81.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 52.9,
+      "price": 84.34,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 2.4,
+      "price": 85.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 15.9,
+      "price": 86.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 29.1,
+      "price": 88.08,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 69.3,
+      "price": 90.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 387.5,
+      "price": 102.32,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TEMON",
+      "energy": 23.8,
+      "price": 104.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TERRE02",
+      "energy": 14.8,
+      "price": 54.13,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TERRE03",
+      "energy": 5.4,
+      "price": 58.23,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TJE",
+      "energy": 82.7,
+      "price": 67.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "TRCDR",
+      "energy": 1.8,
+      "price": 96.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFGC",
+      "energy": 64.8,
+      "price": 61.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFGC",
+      "energy": 176.6,
+      "price": 65.45,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFGC",
+      "energy": 106.0,
+      "price": 93.84,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFGC",
+      "energy": 259.0,
+      "price": 97.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFGC",
+      "energy": 58.9,
+      "price": 99.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFGC",
+      "energy": 70.7,
+      "price": 100.47,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFMI",
+      "energy": 682.7,
+      "price": 67.77,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFMI",
+      "energy": 482.6,
+      "price": 78.38,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFMI",
+      "energy": 235.5,
+      "price": 79.75,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFMI",
+      "energy": 100.1,
+      "price": 82.29,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFMI",
+      "energy": 812.2,
+      "price": 85.27,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFMI",
+      "energy": 323.7,
+      "price": 92.64,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "UFMI",
+      "energy": 217.8,
+      "price": 99.91,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ULEA",
+      "energy": 1.2,
+      "price": 70.62,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VAN2",
+      "energy": 682.3,
+      "price": 4.43,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VAN2",
+      "energy": 387.5,
+      "price": 4.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VGERE05",
+      "energy": 24.2,
+      "price": 48.03,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VGERE06",
+      "energy": 7.9,
+      "price": 46.6,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VGERE08",
+      "energy": 1.8,
+      "price": 80.19,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VGERE12",
+      "energy": 6.0,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VGERE13",
+      "energy": 4.8,
+      "price": 49.59,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VGERE17",
+      "energy": 4.1,
+      "price": 47.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VGERE18",
+      "energy": 28.4,
+      "price": 47.57,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VGERE39",
+      "energy": 25.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VIES",
+      "energy": 459.1,
+      "price": 64.7,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VIES",
+      "energy": 376.7,
+      "price": 80.44,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VIES",
+      "energy": 235.5,
+      "price": 94.98,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "VIES",
+      "energy": 219.6,
+      "price": 98.54,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMEBRO",
+      "energy": 1.8,
+      "price": 76.63,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD007",
+      "energy": 2.4,
+      "price": 49.22,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD014",
+      "energy": 11.5,
+      "price": 55.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD034",
+      "energy": 4.6,
+      "price": 51.56,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD050",
+      "energy": 11.4,
+      "price": 49.85,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD088",
+      "energy": 627.8,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD090",
+      "energy": 8.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD101",
+      "energy": 33.3,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD114",
+      "energy": 7.8,
+      "price": 56.05,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD127",
+      "energy": 25.1,
+      "price": 58.37,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD142",
+      "energy": 2.8,
+      "price": 58.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD144",
+      "energy": 83.4,
+      "price": 60.68,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD145",
+      "energy": 3.4,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD147",
+      "energy": 2.6,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD165",
+      "energy": 11.8,
+      "price": 70.71,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD168",
+      "energy": 9.0,
+      "price": 49.76,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD169",
+      "energy": 6.0,
+      "price": 55.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD170",
+      "energy": 5.8,
+      "price": 46.97,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD172",
+      "energy": 1.9,
+      "price": 58.2,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD173",
+      "energy": 2.0,
+      "price": 49.12,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD177",
+      "energy": 1.2,
+      "price": 100.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD180",
+      "energy": 1.3,
+      "price": 49.09,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD181",
+      "energy": 2.7,
+      "price": 47.25,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD184",
+      "energy": 18.3,
+      "price": 61.28,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD185",
+      "energy": 1.4,
+      "price": 46.74,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD186",
+      "energy": 2.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD187",
+      "energy": 14.0,
+      "price": 58.58,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD188",
+      "energy": 16.8,
+      "price": 50.31,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD189",
+      "energy": 22.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD193",
+      "energy": 128.2,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "WMVD194",
+      "energy": 2.0,
+      "price": 48.24,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "W_Off_ES_30",
+      "energy": 2772.5,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "W_Off_PT_30",
+      "energy": 1200.7,
+      "price": 0.0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "ZABU",
+      "energy": 2.4,
+      "price": 98.99,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt8",
+      "energy": 1.4,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt17",
+      "energy": 58.3,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt18",
+      "energy": 1.3,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt19",
+      "energy": 0.2,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt23",
+      "energy": 10.9,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt26",
+      "energy": 6.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt27",
+      "energy": 2.1,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt28",
+      "energy": 22.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt30",
+      "energy": 3.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt32",
+      "energy": 10.7,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt41",
+      "energy": 7.9,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt42",
+      "energy": 6.5,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt43",
+      "energy": 1.4,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt45",
+      "energy": 13.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt47",
+      "energy": 30.5,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt49",
+      "energy": 4.2,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt53",
+      "energy": 18.2,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt64",
+      "energy": 2.6,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt65",
+      "energy": 6.3,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt73",
+      "energy": 2.4,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt90",
+      "energy": 3.5,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt107",
+      "energy": 2.4,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Wind_Pt999",
+      "energy": 964.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt1",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt2",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt3",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt8",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt16",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt17",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt28",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt95",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    },
+    {
+      "offerUUID": "Solar_Pt999",
+      "energy": 0.0,
+      "price": 0,
+      "instant": 1700518472
+    }
+  ]
+}
