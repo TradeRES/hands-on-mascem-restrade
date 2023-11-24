@@ -30,4 +30,4 @@ tutorial, we will use RESTrade integrated within the [Spine-Toolbox](http://gith
 You can test if you have Java available by using the command java –-version (or java –version
 on some systems). This should show your Java version if the Java command is found. If you get
 a command not found error, or if the Java version is less than 11, please download and install a
-recent JDK from, e.g., [here](http://www.openjdk.org).
+recent JDK from, e.g., [here](https://openjdk.org).
